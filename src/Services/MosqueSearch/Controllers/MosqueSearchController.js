@@ -3,10 +3,10 @@ const {Mosque} = require('../Models/Mosque');
 class MosqueSearchController {
     saveMosque(req, res) {
         let mosque = new Mosque({
-            name: req.body.name,
-            image: req.body.image,
+            town: req.body.town,
+            county: req.body.county,
+            country: req.body.country,
             postcode: req.body.postcode,
-            city: req.body.city,
             geomatry: req.body.geomatry
         });
         mosque.save().then((doc) => {
