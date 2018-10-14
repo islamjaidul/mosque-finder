@@ -1,0 +1,3390 @@
+[
+    {
+      "id": 40,
+      "agent_branch_id": 1,
+      "property_type": "Flat",
+      "price": 1250,
+      "price_type": "",
+      "published_by": "Foysol",
+      "property_view": 1,
+      "phone_click": 0,
+      "postcode": "E11 2AA",
+      "house_number": "2a",
+      "building_name": "Bourne Court",
+      "meta": {
+        "display_status": "Under Offer",
+        "furniture": "Furnished",
+        "date_available": "Immediate",
+        "deposit": "2500"
+      },
+      "reference_number": "WAS180913081632",
+      "postcode_area": "",
+      "city": "London",
+      "address_line1": "High Street",
+      "floor_plan_link": "",
+      "address_line2": "",
+      "street": "",
+      "town": "",
+      "lat": 51.57969,
+      "lng": 0.02431,
+      "sqt_size": "",
+      "year_built": "",
+      "short_description": "A truly stunning second floor apartment with two bedrooms, finished to a very high standard. Perfectly positioned for all that Wanstead and Snaresbrook has to offer",
+      "full_description": "<p><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">A truly stunning second floor apartment with two bedrooms, finished to a very high standard. Perfectly positioned for all that Wanstead and Snaresbrook has to offer with easy access to Snaresbrook Central Line Station and Wanstead High Street. Garage and off-street parking. Large well-maintained communal garden.</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">. The property itself is furnished and has been refurbished through out to a great standard and is situated on two floor, the ground providing spacious lounge with wood flooring, feature fire place and large bay window, stylish and spacious fitted kitchen with door leading to a private rear garden, the first floor boasts a lovely bright double bedroom and fitted modern bathroom.&nbsp;</span></p>",
+      "bed": 2,
+      "bathroom": 1,
+      "property_features": [
+        "Parking"
+      ],
+      "property_images": {
+        "featured_image": [
+          {
+            "name": "Flat.jpg",
+            "status": "success",
+            "uid": 1536869667958,
+            "url": "https://waseka.co.uk/upload_images/1536869666-Flat.jpg"
+          }
+        ],
+        "gallery": [
+          {
+            "name": "Flat.jpg",
+            "status": "success",
+            "uid": 1536869592157,
+            "url": "https://waseka.co.uk/upload_images/1536869590-Flat.jpg"
+          },
+          {
+            "name": "Flat 5.jpg",
+            "status": "success",
+            "uid": 1536869610631,
+            "url": "https://waseka.co.uk/upload_images/1536869608-Flat-5.jpg"
+          },
+          {
+            "name": "13house.jpg",
+            "status": "success",
+            "uid": 1536869655797,
+            "url": "https://waseka.co.uk/upload_images/1536869653-13house.jpg"
+          },
+          {
+            "name": "14flat.jpg",
+            "status": "success",
+            "uid": 1536869783367,
+            "url": "https://waseka.co.uk/upload_images/1536869781-14flat.jpg"
+          },
+          {
+            "name": "Auction 13.jpg",
+            "status": "success",
+            "uid": 1536869790060,
+            "url": "https://waseka.co.uk/upload_images/1536869788-Auction-13.jpg"
+          }
+        ]
+      },
+      "property_videos": "",
+      "property_status": [
+        "Under Offer"
+      ],
+      "floor_plan": [
+        {
+          "name": "Office floorplan.png",
+          "url": "https://waseka.co.uk/upload-files/776921536869670-Office-floorplan.png",
+          "uid": 1536869672647,
+          "status": "success"
+        }
+      ],
+      "epc": [
+        {
+          "name": "Epc sample.pdf",
+          "url": "https://waseka.co.uk/upload-files/863481536869661-Epc-sample.pdf",
+          "uid": 1536869663546,
+          "status": "success"
+        }
+      ],
+      "epc_rating": "B",
+      "brochure": [
+        {
+          "name": "Brochure sample.pdf",
+          "url": "https://waseka.co.uk/upload-files/460141536869678-Brochure-sample.pdf",
+          "uid": 1536869680571,
+          "status": "success"
+        }
+      ],
+      "property_address_hide": 0,
+      "under_offered_at": "",
+      "featured_starts_at": "",
+      "featured_ends_at": "",
+      "published_at": "2018-09-13 14:15:28",
+      "active_at": "2018-09-13 14:15:28",
+      "expired_at": "2018-11-13 14:15:28",
+      "created_at": "2018-09-13 14:15:20",
+      "updated_at": "2018-09-13 14:16:32",
+      "deleted_at": ""
+    },
+    {
+      "id": 41,
+      "agent_branch_id": 1,
+      "property_type": "Flat",
+      "price": 1325,
+      "price_type": "",
+      "published_by": "Foysol",
+      "property_view": 1,
+      "phone_click": 0,
+      "postcode": "E11 2AA",
+      "house_number": "4a",
+      "building_name": "",
+      "meta": {
+        "display_status": "Renovated",
+        "furniture": "Furnished",
+        "date_available": "Immediate",
+        "deposit": "2650"
+      },
+      "reference_number": "WAS180913082839",
+      "postcode_area": "",
+      "city": "London",
+      "address_line1": "High Street",
+      "floor_plan_link": "",
+      "address_line2": "",
+      "street": "",
+      "town": "",
+      "lat": 51.57969,
+      "lng": 0.02431,
+      "sqt_size": "",
+      "year_built": "",
+      "short_description": "We are pleased to offer this stunning 2 bedroom flat to let, with a stunning kitchen/diner, fully furnished and minutes walk from Wanstead central line station",
+      "full_description": "<p><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">We are pleased to offer this immaculately presented and fully refurbished ground floor period conversion; conveniently positioned within a short walk to both Snaresbrook and Wanstead Central Line station, in addition to Wanstead High Street. Having its own private courtyard garden and own private entrance, this property would make an ideal home for a professional couple or single professional working in the city. This flat has been finished to the highest standard and is offered as fully furnished</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">It comprises of a stunningly large kitchen/diner, two bedroom and a bathroom, with separate access.&nbsp;</span></p><p>Call Aqua Properties today to arrange a viewing</p>",
+      "bed": 2,
+      "bathroom": 1,
+      "property_features": [
+        "Parking"
+      ],
+      "property_images": {
+        "featured_image": [
+          {
+            "name": "Flat 9.JPG",
+            "status": "success",
+            "uid": 1536870420605,
+            "url": "https://waseka.co.uk/upload_images/1536870418-Flat-9.JPG"
+          }
+        ],
+        "gallery": [
+          {
+            "name": "Flat 9.JPG",
+            "status": "success",
+            "uid": 1536870206976,
+            "url": "https://waseka.co.uk/upload_images/1536870205-Flat-9.JPG"
+          },
+          {
+            "name": "Auction 15.jpg",
+            "status": "success",
+            "uid": 1536870220191,
+            "url": "https://waseka.co.uk/upload_images/1536870218-Auction-15.jpg"
+          },
+          {
+            "name": "16house.jpg",
+            "status": "success",
+            "uid": 1536870226804,
+            "url": "https://waseka.co.uk/upload_images/1536870224-16house.jpg"
+          },
+          {
+            "name": "Auction 14.jpg",
+            "status": "success",
+            "uid": 1536870252061,
+            "url": "https://waseka.co.uk/upload_images/1536870250-Auction-14.jpg"
+          },
+          {
+            "name": "Semi detached house 2.jpg",
+            "status": "success",
+            "uid": 1536870303704,
+            "url": "https://waseka.co.uk/upload_images/1536870301-Semi-detached-house-2.jpg"
+          }
+        ]
+      },
+      "property_videos": "",
+      "property_status": [
+        "Under Offer",
+        "Renovated",
+        "No Chain"
+      ],
+      "floor_plan": [
+        {
+          "name": "Office floorplan.png",
+          "url": "https://waseka.co.uk/upload-files/253381536870424-Office-floorplan.png",
+          "uid": 1536870426797,
+          "status": "success"
+        }
+      ],
+      "epc": [
+        {
+          "name": "Epc sample.pdf",
+          "url": "https://waseka.co.uk/upload-files/356551536870414-Epc-sample.pdf",
+          "uid": 1536870416334,
+          "status": "success"
+        }
+      ],
+      "epc_rating": "E",
+      "brochure": [
+        {
+          "name": "Brochure sample.pdf",
+          "url": "https://waseka.co.uk/upload-files/302571536870436-Brochure-sample.pdf",
+          "uid": 1536870438388,
+          "status": "success"
+        }
+      ],
+      "property_address_hide": 0,
+      "under_offered_at": "",
+      "featured_starts_at": "2018-10-07 12:29:08",
+      "featured_ends_at": "2018-12-07 12:29:08",
+      "published_at": "2018-09-13 14:28:01",
+      "active_at": "2018-09-13 14:28:01",
+      "expired_at": "2018-11-13 14:28:01",
+      "created_at": "2018-09-13 14:27:53",
+      "updated_at": "2018-10-07 12:29:08",
+      "deleted_at": ""
+    },
+    {
+      "id": 42,
+      "agent_branch_id": 1,
+      "property_type": "Flat",
+      "price": 725,
+      "price_type": "",
+      "published_by": "Foysol",
+      "property_view": 4,
+      "phone_click": 0,
+      "postcode": "E11 2AA",
+      "house_number": 14,
+      "building_name": "",
+      "meta": {
+        "deposit": "1450",
+        "display_status": "Reduced Price",
+        "furniture": "Furnished",
+        "date_available": "TBC"
+      },
+      "reference_number": "WAS180913083704",
+      "postcode_area": "",
+      "city": "London",
+      "address_line1": "High Street",
+      "floor_plan_link": "",
+      "address_line2": "",
+      "street": "",
+      "town": "",
+      "lat": 51.57969,
+      "lng": 0.02431,
+      "sqt_size": "",
+      "year_built": "",
+      "short_description": "Furnished studio flat available on Wanstead High Street",
+      "full_description": "<p><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">A brand new loft extension containing a studio flat with an en-suite shower room and pleasant views across Wanstead. The house is owned and lived in by a friendly family who seek a single professional person to rent the loft extension from them.&nbsp;<br><br>The house is located within half a mile of both Snaresbrook and Wanstead underground stations and all the shops, bars and restaurants on Wanstead High Street. Utility bills and council tax are included in the rent.</span></p><p>*<b>All bills included</b>*</p>",
+      "bed": 1,
+      "bathroom": 1,
+      "property_features": [
+        "Parking"
+      ],
+      "property_images": {
+        "featured_image": [
+          {
+            "name": "luton.jpg",
+            "status": "success",
+            "uid": 1536870870402,
+            "url": "https://waseka.co.uk/upload_images/1536870868-luton.jpg"
+          }
+        ],
+        "gallery": [
+          {
+            "name": "Studio.jpg",
+            "status": "success",
+            "uid": 1536870767020,
+            "url": "https://waseka.co.uk/upload_images/1536870766-Studio.jpg"
+          },
+          {
+            "name": "ensuite.jpeg",
+            "status": "success",
+            "uid": 1536870814357,
+            "url": "https://waseka.co.uk/upload_images/1536870812-ensuite.jpeg"
+          },
+          {
+            "name": "luton.jpg",
+            "status": "success",
+            "uid": 1536870847271,
+            "url": "https://waseka.co.uk/upload_images/1536870845-luton.jpg"
+          }
+        ]
+      },
+      "property_videos": "",
+      "property_status": [
+        "Reduced Price"
+      ],
+      "floor_plan": [
+        {
+          "name": "Office floorplan.png",
+          "url": "https://waseka.co.uk/upload-files/802981536870877-Office-floorplan.png",
+          "uid": 1536870879633,
+          "status": "success"
+        }
+      ],
+      "epc": [
+        {
+          "name": "Epc sample.pdf",
+          "url": "https://waseka.co.uk/upload-files/408751536870873-Epc-sample.pdf",
+          "uid": 1536870875529,
+          "status": "success"
+        }
+      ],
+      "epc_rating": "D",
+      "brochure": [
+        {
+          "name": "Brochure sample.pdf",
+          "url": "https://waseka.co.uk/upload-files/206171536870885-Brochure-sample.pdf",
+          "uid": 1536870887865,
+          "status": "success"
+        }
+      ],
+      "property_address_hide": 0,
+      "under_offered_at": "",
+      "featured_starts_at": "",
+      "featured_ends_at": "",
+      "published_at": "2018-09-13 14:37:22",
+      "active_at": "2018-09-13 14:37:22",
+      "expired_at": "2018-11-13 14:37:22",
+      "created_at": "2018-09-13 14:36:04",
+      "updated_at": "2018-09-19 05:15:42",
+      "deleted_at": ""
+    },
+    {
+      "id": 43,
+      "agent_branch_id": 1,
+      "property_type": "Flat",
+      "price": 950,
+      "price_type": "",
+      "published_by": "Foysol",
+      "property_view": 2,
+      "phone_click": 0,
+      "postcode": "E11 2TA",
+      "house_number": "22a",
+      "building_name": "",
+      "meta": {
+        "deposit": "1900",
+        "display_status": "New Listing",
+        "furniture": "Furnished",
+        "date_available": "Immediate"
+      },
+      "reference_number": "WAS180913085506",
+      "postcode_area": "",
+      "city": "London",
+      "address_line1": "Chestnut Drive",
+      "floor_plan_link": "",
+      "address_line2": "",
+      "street": "",
+      "town": "",
+      "lat": 51.57466,
+      "lng": 0.02052,
+      "sqt_size": "",
+      "year_built": "",
+      "short_description": "**Price Reduction** Furnished 1 Bedroom flat to let minutes walk from Wanstead High Street",
+      "full_description": "<span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Fantastic one double bedroom ground floor maisonette, situated just a 5 minute walk to Wanstead underground station. The maisonette is currently being repainted throughout. The maisonette has a spacious livingroom, fitted kitchen with all appliances included and plenty of worksurfaces and storage space. There is a large double bedroom to the back of the property which over looks the beautiful well kept communal gardens. This property is in a superb location so please get in contact to book a viewing.&nbsp;</span>",
+      "bed": 1,
+      "bathroom": 1,
+      "property_features": [],
+      "property_images": {
+        "featured_image": [
+          {
+            "name": "flat 8.jpg",
+            "status": "success",
+            "uid": 1536872049755,
+            "url": "https://waseka.co.uk/upload_images/1536872047-flat-8.jpg"
+          }
+        ],
+        "gallery": [
+          {
+            "name": "flat 8.jpg",
+            "status": "success",
+            "uid": 1536871983253,
+            "url": "https://waseka.co.uk/upload_images/1536871981-flat-8.jpg"
+          },
+          {
+            "name": "12house.jpg",
+            "status": "success",
+            "uid": 1536871990455,
+            "url": "https://waseka.co.uk/upload_images/1536871988-12house.jpg"
+          },
+          {
+            "name": "Auction 24.jpg",
+            "status": "success",
+            "uid": 1536872002822,
+            "url": "https://waseka.co.uk/upload_images/1536872001-Auction-24.jpg"
+          },
+          {
+            "name": "House 03.jpg",
+            "status": "success",
+            "uid": 1536872012808,
+            "url": "https://waseka.co.uk/upload_images/1536872011-House-03.jpg"
+          }
+        ]
+      },
+      "property_videos": "",
+      "property_status": [
+        "New Listing"
+      ],
+      "floor_plan": [
+        {
+          "name": "Office floorplan.png",
+          "url": "https://waseka.co.uk/upload-files/82961536872051-Office-floorplan.png",
+          "uid": 1536872054070,
+          "status": "success"
+        }
+      ],
+      "epc": [
+        {
+          "name": "Epc sample.pdf",
+          "url": "https://waseka.co.uk/upload-files/422091536872043-Epc-sample.pdf",
+          "uid": 1536872045618,
+          "status": "success"
+        }
+      ],
+      "epc_rating": "B",
+      "brochure": [
+        {
+          "name": "Brochure sample.pdf",
+          "url": "https://waseka.co.uk/upload-files/351621536872059-Brochure-sample.pdf",
+          "uid": 1536872061982,
+          "status": "success"
+        }
+      ],
+      "property_address_hide": 0,
+      "under_offered_at": "",
+      "featured_starts_at": "",
+      "featured_ends_at": "",
+      "published_at": "2018-09-13 14:55:14",
+      "active_at": "2018-09-13 14:55:14",
+      "expired_at": "2018-11-13 14:55:14",
+      "created_at": "2018-09-13 14:55:06",
+      "updated_at": "2018-10-01 21:35:24",
+      "deleted_at": ""
+    },
+    {
+      "id": 44,
+      "agent_branch_id": 1,
+      "property_type": "Terraced House",
+      "price": 1950,
+      "price_type": "",
+      "published_by": "Foysol",
+      "property_view": 15,
+      "phone_click": 0,
+      "postcode": "E11 2RG",
+      "house_number": 4,
+      "building_name": "",
+      "meta": {
+        "deposit": "3900",
+        "display_status": "Newly Built",
+        "furniture": "Part furnished",
+        "date_available": "Immediate"
+      },
+      "reference_number": "WAS180923112521",
+      "postcode_area": "",
+      "city": "London",
+      "address_line1": "Addison Road",
+      "floor_plan_link": "https://www.roomsketcher.com/floor-plans/",
+      "address_line2": "",
+      "street": "",
+      "town": "",
+      "lat": 51.57578,
+      "lng": 0.02349,
+      "sqt_size": "",
+      "year_built": "",
+      "short_description": "3 bedroom terraced house with garden to let off the high street and 5minutes walk from Wanstead central line station",
+      "full_description": "<p><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">This stunning three bedroom Edwardian terraced home benefits from being within the catchment of Aldersbrook Primary school, which recently received an outstanding Ofsted report. The location also benefits from excellent transport links, including Manor Park mainline, Wanstead tube station and the much anticipated Cross-Rail due to open in in 2019. Located in the heart of the Conservation Area, this property is just a few minutes' walk from the idyllic Wanstead Park, which offers stunning woodland views with its ornamental lakes, country walks and easy access through to Central Wanstead and Wanstead flats offering wide open spaces for runners, dog walkers and children to play.&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">To the ground floor there are three good sized reception rooms, including a conservatory overlooking the garden and a good sized, modern kitchen/diner with a range of integrated appliances. The first floor enjoys a large family bathroom, and three bedrooms, two of which are good sized doubles. To the rear there is a spacious garden mainly laid to lawn with a patio area and handy outbuilding to the rear. There is on road permit parking to the front of the property. AVAILABLE IMMEDIATELY/PART FURNISHED (IF REQUIRED)&nbsp;</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">SITTING</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">ROOM</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">15' 7\" x 12' 5\" (5.5m x 2.78m)</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;15'7 In to bay &nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">RECEPTION</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">ROOM</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">12' 4\" x 10' (2.76m x 3.15m)</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">KITCHEN/DINER</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">18' 10\" x 10' 11\" (5.74m x 3.45m)</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">CONSERVATORY</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">10' 5\" x 7' 2\" (3.27m x 2.25m)</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">BEDROOM</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">ONE</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"></span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"></span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">15' 6\" x 12' 5\" (4.75m x 3.75m)</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">BEDROOM</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">TWO</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"></span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"></span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">12' 5\" x 10' 7\" (3.78m x 3.23m)</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">BEDROOM</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">THREE</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">8' 7\" x 6' 3\" (2.62m x 1.91m)</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">BATHROOM</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">8' 10\" x 7' 10\" (2.69m x 2.39m)</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;&nbsp;</span><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br></span></p><p><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">GARDEN</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br></span></p><p><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Call Aqua Properties today to arrange viewing</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br></span></p>",
+      "bed": 3,
+      "bathroom": 1,
+      "property_features": [
+        "Garden",
+        "Parking",
+        "Driveway"
+      ],
+      "property_images": {
+        "featured_image": [
+          {
+            "name": "terraced.jpg",
+            "status": "success",
+            "uid": 1536875944076,
+            "url": "https://waseka.co.uk/upload_images/1536875941-terraced.jpg"
+          }
+        ],
+        "gallery": [
+          {
+            "name": "terraced.jpg",
+            "status": "success",
+            "uid": 1536875940626,
+            "url": "https://waseka.co.uk/upload_images/1536875938-terraced.jpg"
+          },
+          {
+            "name": "House 04.jpg",
+            "status": "success",
+            "uid": 1536875965082,
+            "url": "https://waseka.co.uk/upload_images/1536875964-House-04.jpg"
+          },
+          {
+            "name": "12house.jpg",
+            "status": "success",
+            "uid": 1536875975069,
+            "url": "https://waseka.co.uk/upload_images/1536875972-12house.jpg"
+          },
+          {
+            "name": "Auction 24.jpg",
+            "status": "success",
+            "uid": 1536875981799,
+            "url": "https://waseka.co.uk/upload_images/1536875980-Auction-24.jpg"
+          },
+          {
+            "name": "Flat 2.jpg",
+            "status": "success",
+            "uid": 1536875997896,
+            "url": "https://waseka.co.uk/upload_images/1536875995-Flat-2.jpg"
+          },
+          {
+            "name": "13house.jpg",
+            "status": "success",
+            "uid": 1536876012986,
+            "url": "https://waseka.co.uk/upload_images/1536876010-13house.jpg"
+          },
+          {
+            "name": "Semi detached house 6.jpg",
+            "status": "success",
+            "uid": 1536876030727,
+            "url": "https://waseka.co.uk/upload_images/1536876028-Semi-detached-house-6.jpg"
+          }
+        ]
+      },
+      "property_videos": "",
+      "property_status": [
+        "Newly Built",
+        "No Status"
+      ],
+      "floor_plan": [
+        {
+          "name": "Office floorplan.png",
+          "url": "https://waseka.co.uk/upload-files/574031536876047-Office-floorplan.png",
+          "uid": 1536876049917,
+          "status": "success"
+        },
+        {
+          "name": "floor plan.jpg",
+          "url": "https://waseka.co.uk/upload-files/585091537357547-floor-plan.jpg",
+          "uid": 1537357566578,
+          "status": "success"
+        }
+      ],
+      "epc": [
+        {
+          "name": "Epc sample.pdf",
+          "url": "https://waseka.co.uk/upload-files/785321536876043-Epc-sample.pdf",
+          "uid": 1536876046025,
+          "status": "success"
+        }
+      ],
+      "epc_rating": "B",
+      "brochure": [
+        {
+          "name": "Brochure sample.pdf",
+          "url": "https://waseka.co.uk/upload-files/715091536876057-Brochure-sample.pdf",
+          "uid": 1536876060303,
+          "status": "success"
+        }
+      ],
+      "property_address_hide": 0,
+      "under_offered_at": "",
+      "featured_starts_at": "2018-10-07 12:25:54",
+      "featured_ends_at": "2018-12-07 12:25:54",
+      "published_at": "2018-09-13 16:01:20",
+      "active_at": "2018-09-13 16:01:20",
+      "expired_at": "2019-01-13 16:01:20",
+      "created_at": "2018-09-13 16:01:09",
+      "updated_at": "2018-10-07 12:26:12",
+      "deleted_at": ""
+    },
+    {
+      "id": 45,
+      "agent_branch_id": 1,
+      "property_type": "Flat/Maissonette",
+      "price": 1350,
+      "price_type": "",
+      "published_by": "Jaber Ahmed",
+      "property_view": 0,
+      "phone_click": 0,
+      "postcode": "E11 2RP",
+      "house_number": "343-A/B",
+      "building_name": "",
+      "meta": {
+        "display_status": "Shared Ownership",
+        "furniture": "Furnished",
+        "date_available": "Immediate"
+      },
+      "reference_number": "WAS181008065154",
+      "postcode_area": "",
+      "city": "London",
+      "address_line1": "High Street",
+      "floor_plan_link": "",
+      "address_line2": "",
+      "street": "",
+      "town": "",
+      "lat": 51.57645,
+      "lng": 0.02115,
+      "sqt_size": 343,
+      "year_built": 2012,
+      "short_description": "A very well presented spacious two double bedroom flat, located within a five minute walk to Snaresbrook central line station, large living room, laminated flooring throughout, d/g & g/c/h",
+      "full_description": "<span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">A very well presented spacious two double bedroom flat, located within a five minute walk to Snaresbrook central line station, large living room, laminated flooring throughout, d/g &amp; g/c/h, newly refurbished, furnished, fitted kitchen, tiled bathroom, storage room, internal viewings are recommended. Parking and outdoor space.</span>",
+      "bed": 2,
+      "bathroom": 2,
+      "property_features": [
+        "Garden",
+        "Parking"
+      ],
+      "property_images": {
+        "featured_image": [
+          {
+            "name": "10.jpg",
+            "status": "success",
+            "uid": 1538981509482,
+            "url": "https://waseka.co.uk/upload_images/1538981510-10.jpg"
+          }
+        ],
+        "gallery": [
+          {
+            "name": "13.jpg",
+            "status": "success",
+            "uid": 1538981450541,
+            "url": "https://waseka.co.uk/upload_images/1538981452-13.jpg"
+          },
+          {
+            "name": "54.jpg",
+            "status": "success",
+            "uid": 1538981467928,
+            "url": "https://waseka.co.uk/upload_images/1538981468-54.jpg"
+          },
+          {
+            "name": "47.jpg",
+            "status": "success",
+            "uid": 1538981475735,
+            "url": "https://waseka.co.uk/upload_images/1538981476-47.jpg"
+          },
+          {
+            "name": "46.jpg",
+            "status": "success",
+            "uid": 1538981483147,
+            "url": "https://waseka.co.uk/upload_images/1538981483-46.jpg"
+          }
+        ]
+      },
+      "property_videos": "https://www.youtube.com/watch?v=negni3BiiT4&t=8s",
+      "property_status": [
+        "Shared Ownership",
+        "Under Offer",
+        "Retirement Home",
+        "Newly Built"
+      ],
+      "floor_plan": [
+        {
+          "name": "floor_plan.jpeg",
+          "url": "https://waseka.co.uk/upload-files/721141538980506-floor_plan.jpeg",
+          "uid": 1538980506994,
+          "status": "success"
+        },
+        {
+          "name": "floor_plan2.jpeg",
+          "url": "https://waseka.co.uk/upload-files/564651538980511-floor_plan2.jpeg",
+          "uid": 1538980511505,
+          "status": "success"
+        }
+      ],
+      "epc": [
+        {
+          "name": "3.jpg",
+          "url": "https://waseka.co.uk/upload-files/814721538980501-3.jpg",
+          "uid": 1538980502174,
+          "status": "success"
+        }
+      ],
+      "epc_rating": "A",
+      "brochure": [
+        {
+          "name": "10.jpg",
+          "url": "https://waseka.co.uk/upload-files/542111538980514-10.jpg",
+          "uid": 1538980514469,
+          "status": "success"
+        }
+      ],
+      "property_address_hide": 0,
+      "under_offered_at": "",
+      "featured_starts_at": "",
+      "featured_ends_at": "",
+      "published_at": "2018-10-08 11:08:28",
+      "active_at": "2018-10-08 11:08:28",
+      "expired_at": "2018-12-08 11:08:28",
+      "created_at": "2018-10-08 06:35:57",
+      "updated_at": "2018-10-08 11:08:28",
+      "deleted_at": ""
+    },
+    {
+      "id": 46,
+      "agent_branch_id": 1,
+      "property_type": "Flat/Maissonette",
+      "price": 1400,
+      "price_type": "",
+      "published_by": "Jaber Ahmed",
+      "property_view": 0,
+      "phone_click": 0,
+      "postcode": "E11 2RP",
+      "house_number": "454-A/B",
+      "building_name": "",
+      "meta": {
+        "display_status": "Newly Built",
+        "furniture": "Furnished",
+        "date_available": "TBC"
+      },
+      "reference_number": "WAS181008065034",
+      "postcode_area": "",
+      "city": "London",
+      "address_line1": "High Street",
+      "floor_plan_link": "",
+      "address_line2": "",
+      "street": "",
+      "town": "",
+      "lat": 51.57645,
+      "lng": 0.02115,
+      "sqt_size": 654,
+      "year_built": 2013,
+      "short_description": "London's Local Property Agent, Humphrey & Co Estates introduce to the rental market this new build first floor flat in Leytonstone. The flat comprises of an open plan kitchen, one large",
+      "full_description": "<span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">London's Local Property Agent, Humphrey &amp; Co Estates introduce to the rental market this new build first floor flat in Leytonstone. The flat comprises of an open plan kitchen, one large double bedroom on the first floor and two double bedrooms on the second floor, fully fitted kitchen and a fully tiled bathroom finished to a high spec. Laminate throughout, gas central heating and double glazed. Ideal for working professionals.</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Please call our friendly lettings team to secure a viewing.</span>",
+      "bed": 2,
+      "bathroom": 2,
+      "property_features": [
+        "Garden",
+        "Garage"
+      ],
+      "property_images": {
+        "featured_image": [
+          {
+            "name": "42.jpg",
+            "status": "success",
+            "uid": 1538981425762,
+            "url": "https://waseka.co.uk/upload_images/1538981426-42.jpg"
+          }
+        ],
+        "gallery": [
+          {
+            "name": "16.jpg",
+            "status": "success",
+            "uid": 1538981366100,
+            "url": "https://waseka.co.uk/upload_images/1538981367-16.jpg"
+          },
+          {
+            "name": "22.jpg",
+            "status": "success",
+            "uid": 1538981372686,
+            "url": "https://waseka.co.uk/upload_images/1538981373-22.jpg"
+          },
+          {
+            "name": "19.jpg",
+            "status": "success",
+            "uid": 1538981395765,
+            "url": "https://waseka.co.uk/upload_images/1538981396-19.jpg"
+          },
+          {
+            "name": "21.jpg",
+            "status": "success",
+            "uid": 1538981400846,
+            "url": "https://waseka.co.uk/upload_images/1538981401-21.jpg"
+          }
+        ]
+      },
+      "property_videos": "https://www.youtube.com/watch?v=negni3BiiT4&t=8s",
+      "property_status": [
+        "Shared Ownership",
+        "Under Offer",
+        "Newly Built",
+        "No Status"
+      ],
+      "floor_plan": [
+        {
+          "name": "floor_plan.jpeg",
+          "url": "https://waseka.co.uk/upload-files/224101538980778-floor_plan.jpeg",
+          "uid": 1538980778650,
+          "status": "success"
+        },
+        {
+          "name": "floor_plan2.jpeg",
+          "url": "https://waseka.co.uk/upload-files/656531538980781-floor_plan2.jpeg",
+          "uid": 1538980781900,
+          "status": "success"
+        }
+      ],
+      "epc": [
+        {
+          "name": "8.jpg",
+          "url": "https://waseka.co.uk/upload-files/102561538980776-8.jpg",
+          "uid": 1538980777020,
+          "status": "success"
+        }
+      ],
+      "epc_rating": "A",
+      "brochure": [
+        {
+          "name": "19.jpg",
+          "url": "https://waseka.co.uk/upload-files/117881538980783-19.jpg",
+          "uid": 1538980784178,
+          "status": "success"
+        }
+      ],
+      "property_address_hide": 0,
+      "under_offered_at": "",
+      "featured_starts_at": "",
+      "featured_ends_at": "",
+      "published_at": "2018-10-08 11:08:28",
+      "active_at": "2018-10-08 11:08:28",
+      "expired_at": "2018-12-08 11:08:28",
+      "created_at": "2018-10-08 06:39:56",
+      "updated_at": "2018-10-08 11:08:28",
+      "deleted_at": ""
+    },
+    {
+      "id": 47,
+      "agent_branch_id": 1,
+      "property_type": "Detached House",
+      "price": 2200,
+      "price_type": "",
+      "published_by": "Jaber Ahmed",
+      "property_view": 0,
+      "phone_click": 0,
+      "postcode": "E11 2RP",
+      "house_number": "434-B",
+      "building_name": "",
+      "meta": {
+        "display_status": "Retirement Home",
+        "furniture": "Furnished",
+        "date_available": "Immediate"
+      },
+      "reference_number": "WAS181008064905",
+      "postcode_area": "",
+      "city": "London",
+      "address_line1": "High Street",
+      "floor_plan_link": "",
+      "address_line2": "",
+      "street": "",
+      "town": "",
+      "lat": 51.57645,
+      "lng": 0.02115,
+      "sqt_size": 654,
+      "year_built": 2012,
+      "short_description": "This property is well positioned for commuters and families, being only 0.3 miles from Wanstead Station and High Street and a two minute walk to Wanstead High School, which currently offers",
+      "full_description": "<span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">This property is well positioned for commuters and families, being only 0.3 miles from Wanstead Station and High Street and a two minute walk to Wanstead High School, which currently offers a well-equipped publicly accessible gym and is soon to benefit from a new community swimming pool. Externally there is off road parking to the front and a low-maintenance rear garden paved and decked, perfect for entertaining in. The downstairs layout offers a modern kitchen with range of integrated appliances, downstairs W.C and a spacious, contemporary lounge/diner with large sliding doors that provide access to the garden. To the first floor there are three double bedrooms and a family bathroom, with the master benefitting from a generous en-suite shower room. AVAILABLE FROM 30TH NOVEMBER.&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><strong style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">LOUNGE/DINER</strong><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;</span><strong style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">21' 8\" x 15' (6.6m x 4.57m)</strong><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;21'8 max &nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><strong style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">KITCHEN/BREAKFAST</strong><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;</span><strong style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">ROOM</strong><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;</span><strong style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">11' 10\" x 8' (3.61m x 2.44m)</strong><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><strong style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">BEDROOM</strong><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;</span><strong style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">ONE</strong><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;</span><strong style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"></strong><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"></span><strong style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">11' 8\" x 10' 5\" (3.56m x 3.18m)</strong><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><strong style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">ENSUITE</strong><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;</span><strong style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">7' 6\" x 4' 8\" (2.29m x 1.42m)</strong><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><strong style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">BEDROOM</strong><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;</span><strong style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">TWO</strong><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;</span><strong style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"></strong><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"></span><strong style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">13' x 12' 4\" (3.96m x 3.76m)</strong><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><strong style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">BEDROOM</strong><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;</span><strong style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">THREE</strong><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;</span><strong style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">12' 4\" x 9' 5\" (3.76m x 2.87m)</strong><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><strong style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">BATHROOM</strong><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;</span><strong style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">7' 2\" x 5' 6\" (2.18m x 1.68m)</strong><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;&nbsp;</span>",
+      "bed": 3,
+      "bathroom": 2,
+      "property_features": [
+        "Garage",
+        "Parking"
+      ],
+      "property_images": {
+        "featured_image": [
+          {
+            "name": "4.jpg",
+            "status": "success",
+            "uid": 1538981335872,
+            "url": "https://waseka.co.uk/upload_images/1538981340-4.jpg"
+          }
+        ],
+        "gallery": [
+          {
+            "name": "7.jpg",
+            "status": "success",
+            "uid": 1538981294153,
+            "url": "https://waseka.co.uk/upload_images/1538981295-7.jpg"
+          },
+          {
+            "name": "13.jpg",
+            "status": "success",
+            "uid": 1538981299612,
+            "url": "https://waseka.co.uk/upload_images/1538981301-13.jpg"
+          },
+          {
+            "name": "20.jpg",
+            "status": "success",
+            "uid": 1538981304323,
+            "url": "https://waseka.co.uk/upload_images/1538981306-20.jpg"
+          },
+          {
+            "name": "3.jpg",
+            "status": "success",
+            "uid": 1538981326257,
+            "url": "https://waseka.co.uk/upload_images/1538981326-3.jpg"
+          }
+        ]
+      },
+      "property_videos": "https://www.youtube.com/watch?v=negni3BiiT4&t=8s",
+      "property_status": [
+        "Shared Ownership",
+        "Under Offer",
+        "Newly Built",
+        "Retirement Home"
+      ],
+      "floor_plan": [
+        {
+          "name": "floor_plan.jpeg",
+          "url": "https://waseka.co.uk/upload-files/731431538980932-floor_plan.jpeg",
+          "uid": 1538980932847,
+          "status": "success"
+        },
+        {
+          "name": "floor_plan2.jpeg",
+          "url": "https://waseka.co.uk/upload-files/314261538980935-floor_plan2.jpeg",
+          "uid": 1538980936141,
+          "status": "success"
+        }
+      ],
+      "epc": [
+        {
+          "name": "9.jpg",
+          "url": "https://waseka.co.uk/upload-files/39781538980931-9.jpg",
+          "uid": 1538980931532,
+          "status": "success"
+        }
+      ],
+      "epc_rating": "A",
+      "brochure": [
+        {
+          "name": "14.jpg",
+          "url": "https://waseka.co.uk/upload-files/702621538980938-14.jpg",
+          "uid": 1538980938801,
+          "status": "success"
+        }
+      ],
+      "property_address_hide": 0,
+      "under_offered_at": "",
+      "featured_starts_at": "",
+      "featured_ends_at": "",
+      "published_at": "2018-10-08 11:08:28",
+      "active_at": "2018-10-08 11:08:28",
+      "expired_at": "2018-12-08 11:08:28",
+      "created_at": "2018-10-08 06:44:51",
+      "updated_at": "2018-10-08 11:08:28",
+      "deleted_at": ""
+    },
+    {
+      "id": 48,
+      "agent_branch_id": 1,
+      "property_type": "Terraced House",
+      "price": 2100,
+      "price_type": "",
+      "published_by": "Jaber Ahmed",
+      "property_view": 0,
+      "phone_click": 0,
+      "postcode": "E11 2RP",
+      "house_number": "565/B",
+      "building_name": "",
+      "meta": {
+        "display_status": "Retirement Home",
+        "furniture": "Part furnished",
+        "date_available": "Immediate"
+      },
+      "reference_number": "WAS181008065523",
+      "postcode_area": "",
+      "city": "London",
+      "address_line1": "High Street",
+      "floor_plan_link": "",
+      "address_line2": "",
+      "street": "",
+      "town": "",
+      "lat": 51.57645,
+      "lng": 0.02115,
+      "sqt_size": 675,
+      "year_built": 2011,
+      "short_description": "Rarely available on the much sought after Addison Road in Wanstead is this three bedroom mid-terrace Victorian house. The property has just been redecorated throughout ready for new tenants",
+      "full_description": "<div class=\"sect \" style=\"clear: left; margin: 0px 0px 1.4rem; color: rgb(38, 38, 55); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><p itemprop=\"description\" style=\"margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px 0px 1.2rem; color: rgb(51, 51, 51); font-size: inherit;\">Rarely available on the much sought after Addison Road in Wanstead is this three bedroom mid-terrace Victorian house. The property has just been redecorated throughout ready for new tenants to move in. The property consists of a well-proportioned double reception, kitchen/diner, conservatory, three bedrooms, a family bathroom and a private garden. Christchurch Green and Wanstead High Street are both within close proximity, and Wanstead Underground offering quick and easy access to Central London and The City is just a short walk away</p></div><div class=\"sect more-info\" style=\"clear: left; margin: 0px 0px 1.4rem; color: rgb(38, 38, 55); font-family: Effra-Regular, arial, helvetica, sans-serif;\"></div>",
+      "bed": 3,
+      "bathroom": 2,
+      "property_features": [
+        "Garage",
+        "Parking"
+      ],
+      "property_images": {
+        "featured_image": [
+          {
+            "name": "20.jpg",
+            "status": "success",
+            "uid": 1538981706861,
+            "url": "https://waseka.co.uk/upload_images/1538981708-20.jpg"
+          }
+        ],
+        "gallery": [
+          {
+            "name": "6.jpg",
+            "status": "success",
+            "uid": 1538981672999,
+            "url": "https://waseka.co.uk/upload_images/1538981676-6.jpg"
+          },
+          {
+            "name": "11.jpg",
+            "status": "success",
+            "uid": 1538981678135,
+            "url": "https://waseka.co.uk/upload_images/1538981679-11.jpg"
+          },
+          {
+            "name": "13.jpg",
+            "status": "success",
+            "uid": 1538981683341,
+            "url": "https://waseka.co.uk/upload_images/1538981686-13.jpg"
+          },
+          {
+            "name": "15.jpg",
+            "status": "success",
+            "uid": 1538981689352,
+            "url": "https://waseka.co.uk/upload_images/1538981690-15.jpg"
+          }
+        ]
+      },
+      "property_videos": "https://www.youtube.com/watch?v=negni3BiiT4&t=8s",
+      "property_status": [
+        "Shared Ownership",
+        "Under Offer",
+        "Newly Built",
+        "Retirement Home"
+      ],
+      "floor_plan": [
+        {
+          "name": "floor_plan.jpeg",
+          "url": "https://waseka.co.uk/upload-files/141931538981697-floor_plan.jpeg",
+          "uid": 1538981697895,
+          "status": "success"
+        },
+        {
+          "name": "floor_plan2.jpeg",
+          "url": "https://waseka.co.uk/upload-files/615351538981700-floor_plan2.jpeg",
+          "uid": 1538981700613,
+          "status": "success"
+        }
+      ],
+      "epc": [
+        {
+          "name": "6.jpg",
+          "url": "https://waseka.co.uk/upload-files/426601538981695-6.jpg",
+          "uid": 1538981696156,
+          "status": "success"
+        }
+      ],
+      "epc_rating": "A",
+      "brochure": [
+        {
+          "name": "14.jpg",
+          "url": "https://waseka.co.uk/upload-files/780461538981703-14.jpg",
+          "uid": 1538981703479,
+          "status": "success"
+        }
+      ],
+      "property_address_hide": 0,
+      "under_offered_at": "",
+      "featured_starts_at": "",
+      "featured_ends_at": "",
+      "published_at": "2018-10-08 11:08:28",
+      "active_at": "2018-10-08 11:08:28",
+      "expired_at": "2018-12-08 11:08:28",
+      "created_at": "2018-10-08 06:55:23",
+      "updated_at": "2018-10-08 11:08:28",
+      "deleted_at": ""
+    },
+    {
+      "id": 49,
+      "agent_branch_id": 1,
+      "property_type": "Flat/Maissonette",
+      "price": 1395,
+      "price_type": "",
+      "published_by": "Jaber Ahmed",
+      "property_view": 0,
+      "phone_click": 0,
+      "postcode": "E11 2RP",
+      "house_number": 343,
+      "building_name": "",
+      "meta": {
+        "display_status": "Renovated",
+        "furniture": "Furnished",
+        "date_available": "Immediate"
+      },
+      "reference_number": "WAS181008065752",
+      "postcode_area": "",
+      "city": "London",
+      "address_line1": "High Street",
+      "floor_plan_link": "",
+      "address_line2": "",
+      "street": "",
+      "town": "",
+      "lat": 51.57645,
+      "lng": 0.02115,
+      "sqt_size": "",
+      "year_built": 2010,
+      "short_description": "* * NO TENANTS FEES * * this lovely recently built two bedroom flat is perfectly situated in the Bushwood area of Leytonstone and less 0.4 mile to Leytonstone Central line station.",
+      "full_description": "<span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">* * NO TENANTS FEES * * this lovely recently built two bedroom flat is perfectly situated in the Bushwood area of Leytonstone and less 0.4 mile to Leytonstone Central line station. Some of the many benefits include bright and spacious accommodation throughout, a lovely modern fitted kitchen/bathroom a shared rear garden and laminate floors throughout&nbsp;</span>",
+      "bed": 2,
+      "bathroom": 1,
+      "property_features": [
+        "Garage",
+        "Garden",
+        "Parking"
+      ],
+      "property_images": {
+        "featured_image": [
+          {
+            "name": "8.jpg",
+            "status": "success",
+            "uid": 1538981858422,
+            "url": "https://waseka.co.uk/upload_images/1538981861-8.jpg"
+          }
+        ],
+        "gallery": [
+          {
+            "name": "10.jpg",
+            "status": "success",
+            "uid": 1538981819795,
+            "url": "https://waseka.co.uk/upload_images/1538981821-10.jpg"
+          },
+          {
+            "name": "16.jpg",
+            "status": "success",
+            "uid": 1538981828053,
+            "url": "https://waseka.co.uk/upload_images/1538981829-16.jpg"
+          },
+          {
+            "name": "17.jpg",
+            "status": "success",
+            "uid": 1538981835956,
+            "url": "https://waseka.co.uk/upload_images/1538981837-17.jpg"
+          },
+          {
+            "name": "19.jpg",
+            "status": "success",
+            "uid": 1538981853835,
+            "url": "https://waseka.co.uk/upload_images/1538981854-19.jpg"
+          }
+        ]
+      },
+      "property_videos": "https://www.youtube.com/watch?v=negni3BiiT4&t=8s",
+      "property_status": [
+        "Under Offer",
+        "Reduced Price",
+        "Renovated"
+      ],
+      "floor_plan": [
+        {
+          "name": "floor_plan.jpeg",
+          "url": "https://waseka.co.uk/upload-files/635661538981841-floor_plan.jpeg",
+          "uid": 1538981842081,
+          "status": "success"
+        },
+        {
+          "name": "floor_plan2.jpeg",
+          "url": "https://waseka.co.uk/upload-files/167941538981845-floor_plan2.jpeg",
+          "uid": 1538981845894,
+          "status": "success"
+        }
+      ],
+      "epc": [],
+      "epc_rating": "A",
+      "brochure": [
+        {
+          "name": "9.jpg",
+          "url": "https://waseka.co.uk/upload-files/94181538981850-9.jpg",
+          "uid": 1538981851189,
+          "status": "success"
+        }
+      ],
+      "property_address_hide": 0,
+      "under_offered_at": "",
+      "featured_starts_at": "",
+      "featured_ends_at": "",
+      "published_at": "2018-10-08 11:08:28",
+      "active_at": "2018-10-08 11:08:28",
+      "expired_at": "2018-12-08 11:08:28",
+      "created_at": "2018-10-08 06:57:52",
+      "updated_at": "2018-10-08 11:08:28",
+      "deleted_at": ""
+    },
+    {
+      "id": 50,
+      "agent_branch_id": 1,
+      "property_type": "Flat/Maissonette",
+      "price": 1600,
+      "price_type": "",
+      "published_by": "Jaber Ahmed",
+      "property_view": 0,
+      "phone_click": 0,
+      "postcode": "E11 2RP",
+      "house_number": 322,
+      "building_name": "",
+      "meta": {
+        "display_status": "Shared Ownership",
+        "furniture": "Part furnished",
+        "date_available": "TBC"
+      },
+      "reference_number": "WAS181008070137",
+      "postcode_area": "",
+      "city": "London",
+      "address_line1": "High Street",
+      "floor_plan_link": "",
+      "address_line2": "",
+      "street": "",
+      "town": "",
+      "lat": 51.57645,
+      "lng": 0.02115,
+      "sqt_size": "",
+      "year_built": 2012,
+      "short_description": "A stunning three bedroom apartment within the exclusive Shernwood House development in this prime South Woodford location. The property has a generous total floor area of 892 sq.",
+      "full_description": "<span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">A stunning three bedroom apartment within the exclusive Shernwood House development in this prime South Woodford location. The property has a generous total floor area of 892 sq. ft., triple aspect windows with fantastic views and is bathed in lots of natural light. Refurbished throughout from top-to-bottom, some of the main features include a private balcony, wood floors, brand new kitchen and bathroom, cloakroom and ample storage Further benefits include secure entry-phone system, garage en-bloc, off-street parking, well-tended communal gardens and a lift. Ideally situated for access to Snaresbrook Station and Wanstead High Street.</span>",
+      "bed": 3,
+      "bathroom": 2,
+      "property_features": [
+        "Garage"
+      ],
+      "property_images": {
+        "featured_image": [
+          {
+            "name": "15.jpg",
+            "status": "success",
+            "uid": 1538982079595,
+            "url": "https://waseka.co.uk/upload_images/1538982080-15.jpg"
+          }
+        ],
+        "gallery": [
+          {
+            "name": "7.jpg",
+            "status": "success",
+            "uid": 1538981996164,
+            "url": "https://waseka.co.uk/upload_images/1538981998-7.jpg"
+          },
+          {
+            "name": "5.jpg",
+            "status": "success",
+            "uid": 1538982000880,
+            "url": "https://waseka.co.uk/upload_images/1538982006-5.jpg"
+          },
+          {
+            "name": "1.jpg",
+            "status": "success",
+            "uid": 1538982008588,
+            "url": "https://waseka.co.uk/upload_images/1538982009-1.jpg"
+          },
+          {
+            "name": "2.JPG",
+            "status": "success",
+            "uid": 1538982016217,
+            "url": "https://waseka.co.uk/upload_images/1538982016-2.JPG"
+          }
+        ]
+      },
+      "property_videos": "https://www.youtube.com/watch?v=negni3BiiT4&t=8s",
+      "property_status": [
+        "Under Offer",
+        "Shared Ownership",
+        "Newly Built",
+        "Retirement Home"
+      ],
+      "floor_plan": [
+        {
+          "name": "floor_plan.jpeg",
+          "url": "https://waseka.co.uk/upload-files/151801538982071-floor_plan.jpeg",
+          "uid": 1538982071880,
+          "status": "success"
+        },
+        {
+          "name": "floor_plan2.jpeg",
+          "url": "https://waseka.co.uk/upload-files/598821538982074-floor_plan2.jpeg",
+          "uid": 1538982074837,
+          "status": "success"
+        }
+      ],
+      "epc": [
+        {
+          "name": "10.jpg",
+          "url": "https://waseka.co.uk/upload-files/347431538982068-10.jpg",
+          "uid": 1538982069074,
+          "status": "success"
+        }
+      ],
+      "epc_rating": "A",
+      "brochure": [
+        {
+          "name": "12.jpg",
+          "url": "https://waseka.co.uk/upload-files/96491538982077-12.jpg",
+          "uid": 1538982078021,
+          "status": "success"
+        }
+      ],
+      "property_address_hide": 0,
+      "under_offered_at": "",
+      "featured_starts_at": "",
+      "featured_ends_at": "",
+      "published_at": "2018-10-08 11:08:28",
+      "active_at": "2018-10-08 11:08:28",
+      "expired_at": "2018-12-08 11:08:28",
+      "created_at": "2018-10-08 07:01:37",
+      "updated_at": "2018-10-08 11:08:28",
+      "deleted_at": ""
+    },
+    {
+      "id": 51,
+      "agent_branch_id": 1,
+      "property_type": "Terraced House",
+      "price": 1900,
+      "price_type": "",
+      "published_by": "Jaber Ahmed",
+      "property_view": 0,
+      "phone_click": 0,
+      "postcode": "E11 2RP",
+      "house_number": 343,
+      "building_name": "",
+      "meta": {
+        "display_status": "No Status",
+        "furniture": "Part furnished",
+        "date_available": "TBC"
+      },
+      "reference_number": "WAS181008070745",
+      "postcode_area": "",
+      "city": "London",
+      "address_line1": "High Street",
+      "floor_plan_link": "",
+      "address_line2": "",
+      "street": "",
+      "town": "",
+      "lat": 51.57645,
+      "lng": 0.02115,
+      "sqt_size": "",
+      "year_built": 2011,
+      "short_description": "This stunning Victorian three bedroom mid-terrace house is available now! Located in the sought after area of Bushwood, Leytonstone.",
+      "full_description": "<span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">This stunning Victorian three bedroom mid-terrace house is available now! Located in the sought after area of Bushwood, Leytonstone.&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Recently refurbished to a high standard with a&nbsp;</span><b style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">brand new</b><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;kitchen including appliances. The ground floor consists of a large through lounge, and spacious modern kitchen/diner with additional breakfast area, access to the large rear garden is through the kitchen. The ground floor also boasts of a guest w/c.</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">The three bedrooms are located on the first floor, two double rooms and one large single room. All bedrooms have excellent storage space. The family bathroom on the first floor has also newly fitted to a high quality.</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">An added benefit to this property is the cellar, which give you even more storage space!</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><b style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Check out our 360Â° virtual tour</b><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Location:</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Situated moments away from the popular Wanstead Flats, and also conveniently located a short walk away from High Road Leytonstone.</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Transport:</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Leytonstone Station: 0.6 miles</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Leytonstone High Road Station: 0.7 miles</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Wanstead Station: 0.9 miles</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Buses: 257, N8 &amp; W14</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Schools:</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Davies Lane Primary School: 0.27 miles</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">George Tomlinson Primary School: 0.33 miles</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Connaught School for Girls: 0.51 miles</span>",
+      "bed": 3,
+      "bathroom": 2,
+      "property_features": [
+        "Garden",
+        "Garage"
+      ],
+      "property_images": {
+        "featured_image": [
+          {
+            "name": "16.jpg",
+            "status": "success",
+            "uid": 1538982427841,
+            "url": "https://waseka.co.uk/upload_images/1538982428-16.jpg"
+          }
+        ],
+        "gallery": [
+          {
+            "name": "11.jpg",
+            "status": "success",
+            "uid": 1538982430929,
+            "url": "https://waseka.co.uk/upload_images/1538982431-11.jpg"
+          },
+          {
+            "name": "52.jpg",
+            "status": "success",
+            "uid": 1538982448697,
+            "url": "https://waseka.co.uk/upload_images/1538982449-52.jpg"
+          },
+          {
+            "name": "55.jpg",
+            "status": "success",
+            "uid": 1538982453474,
+            "url": "https://waseka.co.uk/upload_images/1538982454-55.jpg"
+          },
+          {
+            "name": "54.jpg",
+            "status": "success",
+            "uid": 1538982460073,
+            "url": "https://waseka.co.uk/upload_images/1538982460-54.jpg"
+          }
+        ]
+      },
+      "property_videos": "https://www.youtube.com/watch?v=negni3BiiT4&t=8s",
+      "property_status": [
+        "Under Offer",
+        "Shared Ownership",
+        "No Status",
+        "Retirement Home"
+      ],
+      "floor_plan": [
+        {
+          "name": "floor_plan.jpeg",
+          "url": "https://waseka.co.uk/upload-files/860791538982416-floor_plan.jpeg",
+          "uid": 1538982416465,
+          "status": "success"
+        },
+        {
+          "name": "floor_plan2.jpeg",
+          "url": "https://waseka.co.uk/upload-files/296241538982420-floor_plan2.jpeg",
+          "uid": 1538982420342,
+          "status": "success"
+        }
+      ],
+      "epc": [
+        {
+          "name": "9.jpg",
+          "url": "https://waseka.co.uk/upload-files/129661538982415-9.jpg",
+          "uid": 1538982415649,
+          "status": "success"
+        }
+      ],
+      "epc_rating": "A",
+      "brochure": [
+        {
+          "name": "8.jpg",
+          "url": "https://waseka.co.uk/upload-files/622511538982426-8.jpg",
+          "uid": 1538982426992,
+          "status": "success"
+        }
+      ],
+      "property_address_hide": 0,
+      "under_offered_at": "",
+      "featured_starts_at": "",
+      "featured_ends_at": "",
+      "published_at": "2018-10-08 11:08:28",
+      "active_at": "2018-10-08 11:08:28",
+      "expired_at": "2018-12-08 11:08:28",
+      "created_at": "2018-10-08 07:07:45",
+      "updated_at": "2018-10-08 11:08:28",
+      "deleted_at": ""
+    },
+    {
+      "id": 52,
+      "agent_branch_id": 1,
+      "property_type": "Terraced House",
+      "price": 1500,
+      "price_type": "",
+      "published_by": "Jaber Ahmed",
+      "property_view": 0,
+      "phone_click": 0,
+      "postcode": "E11 2RP",
+      "house_number": 232,
+      "building_name": "",
+      "meta": {
+        "deposit": "1500",
+        "display_status": "Under Offer",
+        "furniture": "Part furnished",
+        "date_available": "Immediate"
+      },
+      "reference_number": "WAS181008075247",
+      "postcode_area": "",
+      "city": "London",
+      "address_line1": "High Street",
+      "floor_plan_link": "",
+      "address_line2": "",
+      "street": "",
+      "town": "",
+      "lat": 51.57645,
+      "lng": 0.02115,
+      "sqt_size": "",
+      "year_built": 2009,
+      "short_description": "The apartment flat comes with an option of a dedicated garage (that you can rent) but also use of a communal garage and has private parking for one car.",
+      "full_description": "<p style=\"margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px 0px 1.2rem; color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><b>Property reference number 5724668.</b>&nbsp;To enquire about this property click the \"Request Details\" button</p><br style=\"color: rgb(38, 38, 55); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><p style=\"margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px 0px 1.2rem; color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">***Comfortable second-floor apartment for LONG LET in leafy quiet Wanstead***</p><p style=\"margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px 0px 1.2rem; color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">This wonderfully decorated pristine part furnished apartment (could be fully furnished) boasts a large airy lounge with a central entrance hallway, two large double bedrooms, a stylish bathroom suite with deep bath and hair hose along with towel warmer and dual gas and electric immersion heater with pressure booster pump.<br><br>It has double glazing throughout, a modern sleek fully-fitted kitchen with integrated appliances, energy efficient induction hob, electric grill and two ovens, washing machine, tumble dryer, dishwasher, high-speed microwave, kitchen sink macerator, drinking water filter tap and dimmable LED energy efficient lighting throughout.&nbsp;</p><p style=\"margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px 0px 1.2rem; color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">All with an abundance of light throughout the apartment that has just been painted neutral white which goes well with the dark parquet flooring and has had the place fully deep cleaned and carpet wet extraction cleaning.&nbsp;<br><br>The apartment has views of the start of Epping forest at rear bedroom and lounge both North West facing to get alot of evening sun and it is close to both Wanstead and Snaresbrook high-streets that has many amenities along with many bars, cafes, restaurants and convenient shopping facilities.</p><p style=\"margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px 0px 1.2rem; color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">It is more or less equidistant and near to three underground stations (5-10 mins walk away) where travel by Central Line underground tube to Stratford is ~15 mins and Liverpool Street in ~20 mins with many other easy network choices for commuting including and close to the M11 for ease of getting out of the City and A12 for either direction.</p><p style=\"margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px 0px 1.2rem; color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">The apartment flat comes with an option of a dedicated garage (that you can rent) but also use of a communal garage and has private parking for one car.&nbsp;<br><br>The apartment has a fob or code operated alarm system that can be monitored and mounted safely.&nbsp;<br><br>The block of apartments has CCTV and security entry phone system.&nbsp; Come have a look.&nbsp; Please arrange a visit that is either evening or weekend.</p><br style=\"color: rgb(38, 38, 55); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(38, 38, 55); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><p style=\"margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px 0px 1.2rem; color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">* Please quote ref.&nbsp;<strong>5724668</strong>&nbsp;when enquiring about this property.<br><br>Phone lines open&nbsp;<br>Mon - Fri 8am - 8pm<br>Sat, Sun &amp; public holidays 9am - 4pm<br></p><p style=\"margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px 0px 1.2rem; color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">This property would suit couples and families.</p><p style=\"margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px 0px 1.2rem; color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><b>Tenant Fees:</b></p><p style=\"margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px 0px 1.2rem; color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">The landlord will charge a maximum of £100.00 in fees for this property, to cover the following:</p><ul style=\"margin-right: 0px; margin-bottom: 1em; margin-left: 20px; padding: 0px 0px 0.6rem; list-style-position: initial; list-style-image: none; color: rgb(38, 38, 55); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><li style=\"margin: 0px; padding: 0px 0px 0.6rem;\">Referencing</li><li style=\"margin: 0px; padding: 0px 0px 0.6rem;\">AST</li><li style=\"margin: 0px; padding: 0px 0px 0.6rem;\">Deposit registration</li><li style=\"margin: 0px; padding: 0px;\">Tenancy set up</li></ul><p style=\"margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px 0px 1.2rem; color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">If the Landlord instructs Upad to reference prospective tenants there will be a fee. £75 (£62.50 + VAT) charged to the tenant</p>",
+      "bed": 2,
+      "bathroom": 1,
+      "property_features": [
+        "Garage",
+        "Driveway"
+      ],
+      "property_images": {
+        "featured_image": [
+          {
+            "name": "8.jpg",
+            "status": "success",
+            "uid": 1538985123880,
+            "url": "https://waseka.co.uk/upload_images/1538985128-8.jpg"
+          }
+        ],
+        "gallery": [
+          {
+            "name": "5.jpg",
+            "status": "success",
+            "uid": 1538985117282,
+            "url": "https://waseka.co.uk/upload_images/1538985126-5.jpg"
+          },
+          {
+            "name": "6.jpg",
+            "status": "success",
+            "uid": 1538985134725,
+            "url": "https://waseka.co.uk/upload_images/1538985136-6.jpg"
+          },
+          {
+            "name": "7.jpg",
+            "status": "success",
+            "uid": 1538985154416,
+            "url": "https://waseka.co.uk/upload_images/1538985155-7.jpg"
+          },
+          {
+            "name": "8.jpg",
+            "status": "success",
+            "uid": 1538985162449,
+            "url": "https://waseka.co.uk/upload_images/1538985165-8.jpg"
+          }
+        ]
+      },
+      "property_videos": "https://www.youtube.com/watch?v=negni3BiiT4&t=8s",
+      "property_status": [
+        "Shared Ownership",
+        "Under Offer",
+        "Newly Built",
+        "No Status"
+      ],
+      "floor_plan": [
+        {
+          "name": "floor_plan.jpeg",
+          "url": "https://waseka.co.uk/upload-files/854571538985128-floor_plan.jpeg",
+          "uid": 1538985128981,
+          "status": "success"
+        },
+        {
+          "name": "floor_plan2.jpeg",
+          "url": "https://waseka.co.uk/upload-files/8411538985131-floor_plan2.jpeg",
+          "uid": 1538985131745,
+          "status": "success"
+        }
+      ],
+      "epc": [],
+      "epc_rating": "A",
+      "brochure": [
+        {
+          "name": "20.jpg",
+          "url": "https://waseka.co.uk/upload-files/538351538985140-20.jpg",
+          "uid": 1538985140449,
+          "status": "success"
+        }
+      ],
+      "property_address_hide": 0,
+      "under_offered_at": "",
+      "featured_starts_at": "",
+      "featured_ends_at": "",
+      "published_at": "2018-10-08 11:08:28",
+      "active_at": "2018-10-08 11:08:28",
+      "expired_at": "2018-12-08 11:08:28",
+      "created_at": "2018-10-08 07:52:47",
+      "updated_at": "2018-10-08 11:08:28",
+      "deleted_at": ""
+    },
+    {
+      "id": 53,
+      "agent_branch_id": 1,
+      "property_type": "Flat/Maissonette",
+      "price": 1025,
+      "price_type": "",
+      "published_by": "Jaber Ahmed",
+      "property_view": 0,
+      "phone_click": 0,
+      "postcode": "E11 2RP",
+      "house_number": "34-A/B",
+      "building_name": "",
+      "meta": {
+        "deposit": "1025",
+        "display_status": "New Listing",
+        "furniture": "Furnished",
+        "date_available": "Immediate"
+      },
+      "reference_number": "WAS181008075543",
+      "postcode_area": "",
+      "city": "London",
+      "address_line1": "High Street",
+      "floor_plan_link": "",
+      "address_line2": "",
+      "street": "",
+      "town": "",
+      "lat": 51.57645,
+      "lng": 0.02115,
+      "sqt_size": "",
+      "year_built": 2008,
+      "short_description": "Lovely, newly refurbished one bedroom first floor flat located on the High Street in sought after Wanstead. The numerous High Street Amenities are on the doorstep of this property as are...",
+      "full_description": "<span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Lovely, newly refurbished one bedroom first floor flat located on the High Street in sought after Wanstead. The numerous High Street Amenities are on the doorstep of this property as are excellent transport links and the picturesque Christ church Green. The property consists of a large sitting room, adjacent kitchen with all modern appliances, including a washing machine. There is a large double bedroom with storage and a modern newly fitted shower room. This property is in excellent condition and is perfect for a single professional or a professional couple.&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">",
+      "bed": 1,
+      "bathroom": 1,
+      "property_features": [
+        "Garden",
+        "Garage"
+      ],
+      "property_images": {
+        "featured_image": [
+          {
+            "name": "17.jpg",
+            "status": "success",
+            "uid": 1538985331580,
+            "url": "https://waseka.co.uk/upload_images/1538985333-17.jpg"
+          }
+        ],
+        "gallery": [
+          {
+            "name": "10.jpg",
+            "status": "success",
+            "uid": 1538985300697,
+            "url": "https://waseka.co.uk/upload_images/1538985302-10.jpg"
+          },
+          {
+            "name": "11.jpg",
+            "status": "success",
+            "uid": 1538985305049,
+            "url": "https://waseka.co.uk/upload_images/1538985305-11.jpg"
+          },
+          {
+            "name": "13.jpg",
+            "status": "success",
+            "uid": 1538985310296,
+            "url": "https://waseka.co.uk/upload_images/1538985312-13.jpg"
+          },
+          {
+            "name": "15.jpg",
+            "status": "success",
+            "uid": 1538985317301,
+            "url": "https://waseka.co.uk/upload_images/1538985318-15.jpg"
+          }
+        ]
+      },
+      "property_videos": "https://www.youtube.com/watch?v=negni3BiiT4&t=8s",
+      "property_status": [
+        "Shared Ownership",
+        "Under Offer",
+        "Reduced Price",
+        "Renovated",
+        "New Listing"
+      ],
+      "floor_plan": [
+        {
+          "name": "floor_plan.jpeg",
+          "url": "https://waseka.co.uk/upload-files/744201538985324-floor_plan.jpeg",
+          "uid": 1538985324550,
+          "status": "success"
+        },
+        {
+          "name": "floor_plan2.jpeg",
+          "url": "https://waseka.co.uk/upload-files/333061538985327-floor_plan2.jpeg",
+          "uid": 1538985327519,
+          "status": "success"
+        }
+      ],
+      "epc": [
+        {
+          "name": "7.jpg",
+          "url": "https://waseka.co.uk/upload-files/281091538985322-7.jpg",
+          "uid": 1538985322500,
+          "status": "success"
+        }
+      ],
+      "epc_rating": "A",
+      "brochure": [
+        {
+          "name": "11.jpg",
+          "url": "https://waseka.co.uk/upload-files/681571538985329-11.jpg",
+          "uid": 1538985329778,
+          "status": "success"
+        }
+      ],
+      "property_address_hide": 0,
+      "under_offered_at": "",
+      "featured_starts_at": "",
+      "featured_ends_at": "",
+      "published_at": "2018-10-08 11:08:28",
+      "active_at": "2018-10-08 11:08:28",
+      "expired_at": "2018-12-08 11:08:28",
+      "created_at": "2018-10-08 07:55:43",
+      "updated_at": "2018-10-08 11:08:28",
+      "deleted_at": ""
+    },
+    {
+      "id": 54,
+      "agent_branch_id": 1,
+      "property_type": "Terraced House",
+      "price": 2250,
+      "price_type": "",
+      "published_by": "Jaber Ahmed",
+      "property_view": 0,
+      "phone_click": 0,
+      "postcode": "E11 2RP",
+      "house_number": 343,
+      "building_name": "",
+      "meta": {
+        "deposit": "2250",
+        "display_status": "Under Offer",
+        "furniture": "Part furnished",
+        "date_available": "TBC"
+      },
+      "reference_number": "WAS181008080334",
+      "postcode_area": "",
+      "city": "London",
+      "address_line1": "High Street",
+      "floor_plan_link": "",
+      "address_line2": "",
+      "street": "",
+      "town": "",
+      "lat": 51.57645,
+      "lng": 0.02115,
+      "sqt_size": 343,
+      "year_built": 2009,
+      "short_description": "The property has been extended including a stunning side return extension now offering a spacious contemporary kitchen/living area with ground floor wc. Two double bedrooms to the first floor",
+      "full_description": "<span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">The property has been extended including a stunning side return extension now offering a spacious contemporary kitchen/living area with ground floor wc. Two double bedrooms to the first floor with a separate study area and first floor fitted bathroom. There is a beautiful loft conversion with a double bedroom and an ensuite shower room AVAILABLE FROM 1ST SEPTEMEBER - UNFURNISHED</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><strong style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"></strong><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"></span><strong style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"></strong><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">BEFORE YOU MOVE IN&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">SET UP FEE (tenant's share): £354 (inc VAT)&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Includes contract negotiation (amending and agreeing terms) and arranging the tenancy and agreement.&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">FULL REFERENCE FEE: £36 (Inc VAT) per tenant.&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Referencing identity, immigration and visa confirmation, financial credit checks, obtaining references from current or previous employers / landlords and any other relevant information to assess affordability.&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">GUARANTOR FEE: £120 (inc VAT) per guarantor (if required)&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Covering credit referencing and preparing a Deed of Guarantee as part of the Tenancy Agreement.&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">AMENDMENT FEE: £60 (inc VAT)&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Contract negotiation, amending terms and updating your tenancy agreement during your tenancy.&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">TENANCY RE-ASSIGNMENT: £300.00 (inc VAT)&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Where a tenant wishes to surrender their tenancy&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">RENEWAL FEE (tenant's share): £120 (inc VAT) 12 months contract - £60 (inc VAT) 6 months contract.&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Including contract negotiation, amending and updating terms and arranging a further tenancy and agreement.&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">ENDING YOUR TENANCY&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Check out Fee (tenant's share): £90-£195(inc VAT)&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Attending the property to undertake an updated Schedule of Condition based on the original inventory and negotiating the repayment of the security deposit(s).&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">OTHER FEES AND CHARGES&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">LOST SECURITY ITEMS: £36 (inc VAT) plus item cost&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Obtaining necessary permissions, sourcing providers and travel costs.&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">OUT OF HOURS SERVICES: £36 per hour (inc VAT) plus costs incurred.&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Where actions of the tenant results in the agent (or nominated contractor) attending the property, time to remedy the situation is charged at the hourly rate.&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">UNPAID RENTS / RETURNED PAYMENTS&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Interest at 9.6%(Inc VAT) above Bank of England Base Rate from date due.&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">PROFESSIONAL CLEANING (if required): £80 (inc VAT) per hour - deducted from the security deposit&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Only charged where professional cleaning is necessary to return the property to the same condition as at the start of the tenancy&nbsp;&nbsp;</span>",
+      "bed": 3,
+      "bathroom": 2,
+      "property_features": [
+        "Garage",
+        "Driveway"
+      ],
+      "property_images": {
+        "featured_image": [
+          {
+            "name": "21.jpg",
+            "status": "success",
+            "uid": 1538985757172,
+            "url": "https://waseka.co.uk/upload_images/1538985758-21.jpg"
+          }
+        ],
+        "gallery": [
+          {
+            "name": "16.jpg",
+            "status": "success",
+            "uid": 1538985726427,
+            "url": "https://waseka.co.uk/upload_images/1538985728-16.jpg"
+          },
+          {
+            "name": "17.jpg",
+            "status": "success",
+            "uid": 1538985730068,
+            "url": "https://waseka.co.uk/upload_images/1538985731-17.jpg"
+          },
+          {
+            "name": "19.jpg",
+            "status": "success",
+            "uid": 1538985735745,
+            "url": "https://waseka.co.uk/upload_images/1538985736-19.jpg"
+          },
+          {
+            "name": "20.jpg",
+            "status": "success",
+            "uid": 1538985739949,
+            "url": "https://waseka.co.uk/upload_images/1538985741-20.jpg"
+          }
+        ]
+      },
+      "property_videos": "https://www.youtube.com/watch?v=negni3BiiT4&t=8s",
+      "property_status": [
+        "Shared Ownership",
+        "Under Offer",
+        "Newly Built"
+      ],
+      "floor_plan": [
+        {
+          "name": "floor_plan.jpeg",
+          "url": "https://waseka.co.uk/upload-files/869041538985748-floor_plan.jpeg",
+          "uid": 1538985748380,
+          "status": "success"
+        },
+        {
+          "name": "floor_plan2.jpeg",
+          "url": "https://waseka.co.uk/upload-files/672281538985750-floor_plan2.jpeg",
+          "uid": 1538985751064,
+          "status": "success"
+        }
+      ],
+      "epc": [
+        {
+          "name": "1.jpg",
+          "url": "https://waseka.co.uk/upload-files/710321538985745-1.jpg",
+          "uid": 1538985746059,
+          "status": "success"
+        }
+      ],
+      "epc_rating": "A",
+      "brochure": [
+        {
+          "name": "16.jpg",
+          "url": "https://waseka.co.uk/upload-files/32821538985754-16.jpg",
+          "uid": 1538985754542,
+          "status": "success"
+        }
+      ],
+      "property_address_hide": 0,
+      "under_offered_at": "",
+      "featured_starts_at": "",
+      "featured_ends_at": "",
+      "published_at": "2018-10-08 11:08:28",
+      "active_at": "2018-10-08 11:08:28",
+      "expired_at": "2018-12-08 11:08:28",
+      "created_at": "2018-10-08 08:03:34",
+      "updated_at": "2018-10-08 11:08:28",
+      "deleted_at": ""
+    },
+    {
+      "id": 55,
+      "agent_branch_id": 1,
+      "property_type": "Detached House",
+      "price": 2200,
+      "price_type": "",
+      "published_by": "Jaber Ahmed",
+      "property_view": 0,
+      "phone_click": 0,
+      "postcode": "E11 2RP",
+      "house_number": "444-W",
+      "building_name": "",
+      "meta": {
+        "deposit": "2200",
+        "display_status": "Shared Ownership",
+        "furniture": "Part furnished",
+        "date_available": "Immediate"
+      },
+      "reference_number": "WAS181008081309",
+      "postcode_area": "",
+      "city": "London",
+      "address_line1": "High Street",
+      "floor_plan_link": "",
+      "address_line2": "",
+      "street": "",
+      "town": "",
+      "lat": 51.57645,
+      "lng": 0.02115,
+      "sqt_size": 644,
+      "year_built": 2007,
+      "short_description": "Impressive three bedroom detached family home situated in a desirable cul-de-sac within easy reach of Snaresbrook Central Line station and Wanstead`s popular High Street.",
+      "full_description": "<span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Impressive three bedroom detached family home situated in a desirable cul-de-sac within easy reach of Snaresbrook Central Line station and Wanstead`s popular High Street. The property has been recently renovated offering modern neutral decor throughout.&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">The ground floor features two spacious reception rooms, a newly fitted kitchen with appliances, ground floor cloakroom and storage. The first floor comprises of a three good size bedrooms and a family bathroom with bath and shower cubicle. Other benefits of this property include gas central heating via a new combi boiler, private rear garden with side access and off street parking for several cars.&nbsp;</span>",
+      "bed": 3,
+      "bathroom": 2,
+      "property_features": [
+        "Garden",
+        "Parking"
+      ],
+      "property_images": {
+        "featured_image": [
+          {
+            "name": "42.jpg",
+            "status": "success",
+            "uid": 1538986371797,
+            "url": "https://waseka.co.uk/upload_images/1538986372-42.jpg"
+          }
+        ],
+        "gallery": [
+          {
+            "name": "53.jpg",
+            "status": "success",
+            "uid": 1538986288086,
+            "url": "https://waseka.co.uk/upload_images/1538986289-53.jpg"
+          },
+          {
+            "name": "54.jpg",
+            "status": "success",
+            "uid": 1538986293731,
+            "url": "https://waseka.co.uk/upload_images/1538986294-54.jpg"
+          },
+          {
+            "name": "52.jpg",
+            "status": "success",
+            "uid": 1538986347089,
+            "url": "https://waseka.co.uk/upload_images/1538986347-52.jpg"
+          },
+          {
+            "name": "50.jpg",
+            "status": "success",
+            "uid": 1538986354479,
+            "url": "https://waseka.co.uk/upload_images/1538986355-50.jpg"
+          }
+        ]
+      },
+      "property_videos": "https://www.youtube.com/watch?v=negni3BiiT4&t=8s",
+      "property_status": [
+        "Reduced Price",
+        "Renovated",
+        "Under Offer",
+        "Shared Ownership"
+      ],
+      "floor_plan": [
+        {
+          "name": "floor_plan.jpeg",
+          "url": "https://waseka.co.uk/upload-files/324211538986362-floor_plan.jpeg",
+          "uid": 1538986362566,
+          "status": "success"
+        },
+        {
+          "name": "floor_plan2.jpeg",
+          "url": "https://waseka.co.uk/upload-files/137221538986364-floor_plan2.jpeg",
+          "uid": 1538986365124,
+          "status": "success"
+        }
+      ],
+      "epc": [
+        {
+          "name": "7.jpg",
+          "url": "https://waseka.co.uk/upload-files/472161538986360-7.jpg",
+          "uid": 1538986360816,
+          "status": "success"
+        }
+      ],
+      "epc_rating": "A",
+      "brochure": [
+        {
+          "name": "15.jpg",
+          "url": "https://waseka.co.uk/upload-files/870651538986367-15.jpg",
+          "uid": 1538986368309,
+          "status": "success"
+        }
+      ],
+      "property_address_hide": 0,
+      "under_offered_at": "",
+      "featured_starts_at": "",
+      "featured_ends_at": "",
+      "published_at": "2018-10-08 11:08:28",
+      "active_at": "2018-10-08 11:08:28",
+      "expired_at": "2018-12-08 11:08:28",
+      "created_at": "2018-10-08 08:13:09",
+      "updated_at": "2018-10-08 11:08:28",
+      "deleted_at": ""
+    },
+    {
+      "id": 56,
+      "agent_branch_id": 1,
+      "property_type": "Flat/Maissonette",
+      "price": 2102,
+      "price_type": "",
+      "published_by": "Jaber Ahmed",
+      "property_view": 0,
+      "phone_click": 0,
+      "postcode": "E11 2RP",
+      "house_number": "564-F/A",
+      "building_name": "",
+      "meta": {
+        "deposit": "2102",
+        "display_status": "Newly Built",
+        "furniture": "Furnished",
+        "date_available": "TBC"
+      },
+      "reference_number": "WAS181008083133",
+      "postcode_area": "",
+      "city": "London",
+      "address_line1": "High Street",
+      "floor_plan_link": "",
+      "address_line2": "",
+      "street": "",
+      "town": "",
+      "lat": 51.57645,
+      "lng": 0.02115,
+      "sqt_size": 343,
+      "year_built": 2008,
+      "short_description": "A huge fantastic four bedroom, two reception split level flat, located close to Leytonstone station, E11. This excellent property has a lovely large fully fitted separate kitchen with built",
+      "full_description": "<span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">A huge fantastic four bedroom, two reception split level flat, located close to Leytonstone station, E11. This excellent property has a lovely large fully fitted separate kitchen with built in breakfast bar, generous sized bedrooms throughout andbenefits from being newly decorated with new carpets. The huge bathroom has been nicely finished and includes a shower cubicle, a bath and separate WC and the property includes double glazed windows and Gas Central Heating as well as many period style features and high ceilings. This fantastic flat would be ideal for Students or Professional sharers as the location provides quick and easy access into the City or Central London. You have a choice of Leytonstone and Wanstead stations both just a short walk away and there are several bus routes including 24 hour services available. The high street can be found within just a few minutes walk where you have excellent shopping amenities, supermarkets, pubs and restaurants and lovely nearby parks. Call now for viewings.</span>",
+      "bed": 4,
+      "bathroom": 2,
+      "property_features": [
+        "Garage",
+        "Parking"
+      ],
+      "property_images": {
+        "featured_image": [
+          {
+            "name": "11.jpg",
+            "status": "success",
+            "uid": 1538987476208,
+            "url": "https://waseka.co.uk/upload_images/1538987476-11.jpg"
+          }
+        ],
+        "gallery": [
+          {
+            "name": "13.jpg",
+            "status": "success",
+            "uid": 1538987437418,
+            "url": "https://waseka.co.uk/upload_images/1538987439-13.jpg"
+          },
+          {
+            "name": "15.jpg",
+            "status": "success",
+            "uid": 1538987442993,
+            "url": "https://waseka.co.uk/upload_images/1538987444-15.jpg"
+          },
+          {
+            "name": "19.jpg",
+            "status": "success",
+            "uid": 1538987449257,
+            "url": "https://waseka.co.uk/upload_images/1538987450-19.jpg"
+          },
+          {
+            "name": "21.jpg",
+            "status": "success",
+            "uid": 1538987454460,
+            "url": "https://waseka.co.uk/upload_images/1538987455-21.jpg"
+          }
+        ]
+      },
+      "property_videos": "https://www.youtube.com/watch?v=negni3BiiT4&t=8s",
+      "property_status": [
+        "No Status",
+        "Newly Built",
+        "Retirement Home"
+      ],
+      "floor_plan": [
+        {
+          "name": "floor_plan.jpeg",
+          "url": "https://waseka.co.uk/upload-files/900581538987462-floor_plan.jpeg",
+          "uid": 1538987462958,
+          "status": "success"
+        },
+        {
+          "name": "floor_plan2.jpeg",
+          "url": "https://waseka.co.uk/upload-files/887961538987465-floor_plan2.jpeg",
+          "uid": 1538987465537,
+          "status": "success"
+        }
+      ],
+      "epc": [
+        {
+          "name": "3.jpg",
+          "url": "https://waseka.co.uk/upload-files/383891538987459-3.jpg",
+          "uid": 1538987459957,
+          "status": "success"
+        }
+      ],
+      "epc_rating": "A",
+      "brochure": [
+        {
+          "name": "14.jpg",
+          "url": "https://waseka.co.uk/upload-files/415391538987474-14.jpg",
+          "uid": 1538987474315,
+          "status": "success"
+        }
+      ],
+      "property_address_hide": 0,
+      "under_offered_at": "",
+      "featured_starts_at": "",
+      "featured_ends_at": "",
+      "published_at": "2018-10-08 11:08:28",
+      "active_at": "2018-10-08 11:08:28",
+      "expired_at": "2018-12-08 11:08:28",
+      "created_at": "2018-10-08 08:31:33",
+      "updated_at": "2018-10-08 11:08:28",
+      "deleted_at": ""
+    },
+    {
+      "id": 57,
+      "agent_branch_id": 1,
+      "property_type": "Flat/Maissonette",
+      "price": 1400,
+      "price_type": "",
+      "published_by": "Jaber Ahmed",
+      "property_view": 0,
+      "phone_click": 0,
+      "postcode": "E11 2RP",
+      "house_number": "333-B",
+      "building_name": "",
+      "meta": {
+        "deposit": "1400",
+        "display_status": "Shared Ownership",
+        "furniture": "Furnished",
+        "date_available": "Immediate"
+      },
+      "reference_number": "WAS181008083802",
+      "postcode_area": "",
+      "city": "London",
+      "address_line1": "High Street",
+      "floor_plan_link": "",
+      "address_line2": "",
+      "street": "",
+      "town": "",
+      "lat": 51.57645,
+      "lng": 0.02115,
+      "sqt_size": 565,
+      "year_built": 2009,
+      "short_description": "A truly stunning two bedroom, split-level apartment, finished to a very high standard. Perfectly positioned for all that Wanstead and Snaresbrook has to offer with easy access...",
+      "full_description": "<span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">A truly stunning two bedroom, split-level apartment, finished to a very high standard. Perfectly positioned for all that Wanstead and Snaresbrook has to offer with easy access to Snaresbrook Central Line Station and Wanstead High Street. Garage and off-street parking. Large well-maintained communal garden.</span>",
+      "bed": 2,
+      "bathroom": 2,
+      "property_features": [
+        "Garage",
+        "Parking"
+      ],
+      "property_images": {
+        "featured_image": [
+          {
+            "name": "21.jpg",
+            "status": "success",
+            "uid": 1538987869883,
+            "url": "https://waseka.co.uk/upload_images/1538987870-21.jpg"
+          }
+        ],
+        "gallery": [
+          {
+            "name": "22.jpg",
+            "status": "success",
+            "uid": 1538987834186,
+            "url": "https://waseka.co.uk/upload_images/1538987835-22.jpg"
+          },
+          {
+            "name": "24.jpg",
+            "status": "success",
+            "uid": 1538987844094,
+            "url": "https://waseka.co.uk/upload_images/1538987846-24.jpg"
+          },
+          {
+            "name": "25.jpg",
+            "status": "success",
+            "uid": 1538987850350,
+            "url": "https://waseka.co.uk/upload_images/1538987852-25.jpg"
+          },
+          {
+            "name": "27.jpeg",
+            "status": "success",
+            "uid": 1538987861253,
+            "url": "https://waseka.co.uk/upload_images/1538987861-27.jpeg"
+          }
+        ]
+      },
+      "property_videos": "https://www.youtube.com/watch?v=negni3BiiT4&t=8s",
+      "property_status": [
+        "No Status",
+        "Newly Built",
+        "Shared Ownership",
+        "Under Offer"
+      ],
+      "floor_plan": [
+        {
+          "name": "floor_plan.jpeg",
+          "url": "https://waseka.co.uk/upload-files/427891538987853-floor_plan.jpeg",
+          "uid": 1538987853370,
+          "status": "success"
+        },
+        {
+          "name": "floor_plan2.jpeg",
+          "url": "https://waseka.co.uk/upload-files/306331538987856-floor_plan2.jpeg",
+          "uid": 1538987856418,
+          "status": "success"
+        }
+      ],
+      "epc": [
+        {
+          "name": "5.jpg",
+          "url": "https://waseka.co.uk/upload-files/110381538987872-5.jpg",
+          "uid": 1538987873308,
+          "status": "success"
+        }
+      ],
+      "epc_rating": "A",
+      "brochure": [
+        {
+          "name": "10.jpg",
+          "url": "https://waseka.co.uk/upload-files/580991538987864-10.jpg",
+          "uid": 1538987864441,
+          "status": "success"
+        }
+      ],
+      "property_address_hide": 0,
+      "under_offered_at": "",
+      "featured_starts_at": "",
+      "featured_ends_at": "",
+      "published_at": "2018-10-08 11:08:28",
+      "active_at": "2018-10-08 11:08:28",
+      "expired_at": "2018-12-08 11:08:28",
+      "created_at": "2018-10-08 08:38:02",
+      "updated_at": "2018-10-08 11:08:28",
+      "deleted_at": ""
+    },
+    {
+      "id": 58,
+      "agent_branch_id": 1,
+      "property_type": "Terraced House",
+      "price": 2400,
+      "price_type": "",
+      "published_by": "Jaber Ahmed",
+      "property_view": 0,
+      "phone_click": 0,
+      "postcode": "E11 2RP",
+      "house_number": "222-V",
+      "building_name": "",
+      "meta": {
+        "deposit": "2400",
+        "display_status": "Renovated",
+        "furniture": "Part furnished",
+        "date_available": "Immediate"
+      },
+      "reference_number": "WAS181008084034",
+      "postcode_area": "",
+      "city": "London",
+      "address_line1": "High Street",
+      "floor_plan_link": "",
+      "address_line2": "",
+      "street": "",
+      "town": "",
+      "lat": 51.57645,
+      "lng": 0.02115,
+      "sqt_size": 563,
+      "year_built": 2009,
+      "short_description": "kitchen/diner with French doors leading to the patio and well maintained 72 feet garden. The first floor has three bedrooms and a family bathroom. The top floor has a large fourth bedroom..",
+      "full_description": "<span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">A generously proportioned four bedroom mid-terrace house located on the much sought after Warren Estate. The property is arranged over three floors, the ground floor consisting of a large double reception, further reception perfect for a play room or study, cloakroom, well-appointed fitted kitchen/diner with French doors leading to the patio and well maintained 72 feet garden. The first floor has three bedrooms and a family bathroom. The top floor has a large fourth bedroom with en-suite shower room. Further benefitting from a driveway with off street parking for one car. Ideally located within minutes of Wanstead Central Line Station and High Street.</span>",
+      "bed": 4,
+      "bathroom": 2,
+      "property_features": [
+        "Driveway",
+        "Garage"
+      ],
+      "property_images": {
+        "featured_image": [
+          {
+            "name": "22.jpg",
+            "status": "success",
+            "uid": 1538987998503,
+            "url": "https://waseka.co.uk/upload_images/1538987999-22.jpg"
+          }
+        ],
+        "gallery": [
+          {
+            "name": "15.jpg",
+            "status": "success",
+            "uid": 1538987994331,
+            "url": "https://waseka.co.uk/upload_images/1538987996-15.jpg"
+          },
+          {
+            "name": "13.jpg",
+            "status": "success",
+            "uid": 1538988001240,
+            "url": "https://waseka.co.uk/upload_images/1538988003-13.jpg"
+          },
+          {
+            "name": "11.jpg",
+            "status": "success",
+            "uid": 1538988010257,
+            "url": "https://waseka.co.uk/upload_images/1538988010-11.jpg"
+          },
+          {
+            "name": "17.jpg",
+            "status": "success",
+            "uid": 1538988018315,
+            "url": "https://waseka.co.uk/upload_images/1538988019-17.jpg"
+          }
+        ]
+      },
+      "property_videos": "https://www.youtube.com/watch?v=negni3BiiT4&t=8s",
+      "property_status": [
+        "Shared Ownership",
+        "Under Offer",
+        "New Listing",
+        "Renovated"
+      ],
+      "floor_plan": [
+        {
+          "name": "floor_plan.jpeg",
+          "url": "https://waseka.co.uk/upload-files/632271538988005-floor_plan.jpeg",
+          "uid": 1538988006192,
+          "status": "success"
+        },
+        {
+          "name": "floor_plan2.jpeg",
+          "url": "https://waseka.co.uk/upload-files/558401538988013-floor_plan2.jpeg",
+          "uid": 1538988013969,
+          "status": "success"
+        }
+      ],
+      "epc": [
+        {
+          "name": "4.jpg",
+          "url": "https://waseka.co.uk/upload-files/871111538988022-4.jpg",
+          "uid": 1538988022402,
+          "status": "success"
+        }
+      ],
+      "epc_rating": 0,
+      "brochure": [
+        {
+          "name": "7.jpg",
+          "url": "https://waseka.co.uk/upload-files/882941538988023-7.jpg",
+          "uid": 1538988023400,
+          "status": "success"
+        }
+      ],
+      "property_address_hide": 0,
+      "under_offered_at": "",
+      "featured_starts_at": "",
+      "featured_ends_at": "",
+      "published_at": "2018-10-08 11:04:07",
+      "active_at": "2018-10-08 11:04:07",
+      "expired_at": "2018-12-08 11:04:07",
+      "created_at": "2018-10-08 08:40:34",
+      "updated_at": "2018-10-08 11:04:07",
+      "deleted_at": ""
+    },
+    {
+      "id": 59,
+      "agent_branch_id": 1,
+      "property_type": "Flat/Maissonette",
+      "price": 1500,
+      "price_type": "",
+      "published_by": "Jaber Ahmed",
+      "property_view": 0,
+      "phone_click": 0,
+      "postcode": "E11 2RP",
+      "house_number": "333-AB",
+      "building_name": "",
+      "meta": {
+        "deposit": "1500",
+        "display_status": "Retirement Home",
+        "furniture": "Furnished",
+        "date_available": "TBC"
+      },
+      "reference_number": "WAS181008084542",
+      "postcode_area": "",
+      "city": "London",
+      "address_line1": "High Street",
+      "floor_plan_link": "",
+      "address_line2": "",
+      "street": "",
+      "town": "",
+      "lat": 51.57645,
+      "lng": 0.02115,
+      "sqt_size": 454,
+      "year_built": 2009,
+      "short_description": "This exquisite three bedroom purpose built flat offered for rent is situated in the ever so popular area of South Woodford.",
+      "full_description": "<p style=\"margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px 0px 1.2rem; color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">This exquisite three bedroom purpose built flat offered for rent is situated in the ever so popular area of South Woodford. Only a short walk from Snaresbrook station, an even shorter walk to Epping Forest and is close to South Woodford High Street's restaurants, supermarkets and cinema.&nbsp;<br></p><br style=\"color: rgb(38, 38, 55); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><p style=\"margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px 0px 1.2rem; color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Extremely well presented, the flat boasts; three double bedrooms, a spacious reception room, a three-piece bathroom suite and a charming kitchen. The property also benefits from gas central heating, doubles glazing, laminate flooring throughout and is offered on a part-furnished basis.&nbsp;<br></p><br style=\"color: rgb(38, 38, 55); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><p style=\"margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px 0px 1.2rem; color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Available NOW, please call a member of our Lettings Department on 0208 558 1147 to arrange a viewing.&nbsp;<br></p><br style=\"color: rgb(38, 38, 55); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><p style=\"margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px 0px 1.2rem; color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">These property details have been prepared under instruction from the seller/landlord. All interested parties in relation to a property being marketed for sale, must verify accuracy and your solicitor must verify tenure/lease information, fixtures &amp; fittings and, where the property has been extended/converted, planning/building regulation consents. All measurements including those shown on a floorplan are approximate, intended for illustration purposes, offering only a general guide to the layout and are not to scale. Photographs may have been taken using a wide angled lens and are for general information; it cannot be inferred items shown are included in the sale/letting.</p>",
+      "bed": 3,
+      "bathroom": 2,
+      "property_features": [
+        "Garden",
+        "Garage"
+      ],
+      "property_images": {
+        "featured_image": [
+          {
+            "name": "25.jpg",
+            "status": "success",
+            "uid": 1538988299915,
+            "url": "https://waseka.co.uk/upload_images/1538988301-25.jpg"
+          }
+        ],
+        "gallery": [
+          {
+            "name": "13.jpg",
+            "status": "success",
+            "uid": 1538988285396,
+            "url": "https://waseka.co.uk/upload_images/1538988288-13.jpg"
+          },
+          {
+            "name": "10.jpg",
+            "status": "success",
+            "uid": 1538988295858,
+            "url": "https://waseka.co.uk/upload_images/1538988296-10.jpg"
+          },
+          {
+            "name": "11.jpg",
+            "status": "success",
+            "uid": 1538988329533,
+            "url": "https://waseka.co.uk/upload_images/1538988330-11.jpg"
+          },
+          {
+            "name": "15.jpg",
+            "status": "success",
+            "uid": 1538988333159,
+            "url": "https://waseka.co.uk/upload_images/1538988334-15.jpg"
+          }
+        ]
+      },
+      "property_videos": "https://www.youtube.com/watch?v=negni3BiiT4&t=8s",
+      "property_status": [
+        "Shared Ownership",
+        "Under Offer",
+        "Retirement Home",
+        "Newly Built"
+      ],
+      "floor_plan": [
+        {
+          "name": "floor_plan.jpeg",
+          "url": "https://waseka.co.uk/upload-files/702231538988303-floor_plan.jpeg",
+          "uid": 1538988303236,
+          "status": "success"
+        },
+        {
+          "name": "floor_plan2.jpeg",
+          "url": "https://waseka.co.uk/upload-files/769471538988305-floor_plan2.jpeg",
+          "uid": 1538988306202,
+          "status": "success"
+        }
+      ],
+      "epc": [
+        {
+          "name": "13.jpg",
+          "url": "https://waseka.co.uk/upload-files/41821538988294-13.jpg",
+          "uid": 1538988295127,
+          "status": "success"
+        }
+      ],
+      "epc_rating": "A",
+      "brochure": [
+        {
+          "name": "50.jpg",
+          "url": "https://waseka.co.uk/upload-files/291541538988309-50.jpg",
+          "uid": 1538988309871,
+          "status": "success"
+        }
+      ],
+      "property_address_hide": 0,
+      "under_offered_at": "",
+      "featured_starts_at": "",
+      "featured_ends_at": "",
+      "published_at": "2018-10-08 11:04:07",
+      "active_at": "2018-10-08 11:04:07",
+      "expired_at": "2018-12-08 11:04:07",
+      "created_at": "2018-10-08 08:45:42",
+      "updated_at": "2018-10-08 11:04:07",
+      "deleted_at": ""
+    },
+    {
+      "id": 60,
+      "agent_branch_id": 1,
+      "property_type": "Flat/Maissonette",
+      "price": 1250,
+      "price_type": "",
+      "published_by": "Jaber Ahmed",
+      "property_view": 0,
+      "phone_click": 0,
+      "postcode": "E11 2RP",
+      "house_number": "34-A/B",
+      "building_name": "",
+      "meta": {
+        "deposit": "1250",
+        "display_status": "Renovated",
+        "furniture": "Furnished",
+        "date_available": "Immediate"
+      },
+      "reference_number": "WAS181008085033",
+      "postcode_area": "",
+      "city": "London",
+      "address_line1": "High Street",
+      "floor_plan_link": "",
+      "address_line2": "",
+      "street": "",
+      "town": "",
+      "lat": 51.57645,
+      "lng": 0.02115,
+      "sqt_size": 654,
+      "year_built": 2009,
+      "short_description": "Churchill Estates are proud to present, this one double bedroom Victorian conversion situated in the Heart of Wanstead. Being a stones throw away to all local amenities, this property benefit",
+      "full_description": "<span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Churchill Estates are proud to present, this one double bedroom Victorian conversion situated in the Heart of Wanstead. Being a stones throw away to all local amenities, this property benefits from one large double bedroom, reception room, modern fitted kitchen and bathroom. The property further benefits from a large privately owned rear garden and side access. The property is available from the end of September and due to gain a high level of interest, so call now to avoid missing out.</span>",
+      "bed": 1,
+      "bathroom": 1,
+      "property_features": [
+        "Garage",
+        "Parking"
+      ],
+      "property_images": {
+        "featured_image": [
+          {
+            "name": "24.jpg",
+            "status": "success",
+            "uid": 1538988600059,
+            "url": "https://waseka.co.uk/upload_images/1538988602-24.jpg"
+          }
+        ],
+        "gallery": [
+          {
+            "name": "13.jpg",
+            "status": "success",
+            "uid": 1538988574840,
+            "url": "https://waseka.co.uk/upload_images/1538988578-13.jpg"
+          },
+          {
+            "name": "21.jpg",
+            "status": "success",
+            "uid": 1538988581285,
+            "url": "https://waseka.co.uk/upload_images/1538988582-21.jpg"
+          },
+          {
+            "name": "22.jpg",
+            "status": "success",
+            "uid": 1538988585010,
+            "url": "https://waseka.co.uk/upload_images/1538988586-22.jpg"
+          },
+          {
+            "name": "23.jpeg",
+            "status": "success",
+            "uid": 1538988592413,
+            "url": "https://waseka.co.uk/upload_images/1538988594-23.jpeg"
+          }
+        ]
+      },
+      "property_videos": "https://www.youtube.com/watch?v=negni3BiiT4&t=8s",
+      "property_status": [
+        "Shared Ownership",
+        "Under Offer",
+        "Renovated",
+        "Reduced Price"
+      ],
+      "floor_plan": [
+        {
+          "name": "floor_plan.jpeg",
+          "url": "https://waseka.co.uk/upload-files/640651538988606-floor_plan.jpeg",
+          "uid": 1538988606324,
+          "status": "success"
+        },
+        {
+          "name": "floor_plan2.jpeg",
+          "url": "https://waseka.co.uk/upload-files/620061538988614-floor_plan2.jpeg",
+          "uid": 1538988614337,
+          "status": "success"
+        }
+      ],
+      "epc": [
+        {
+          "name": "11.jpg",
+          "url": "https://waseka.co.uk/upload-files/663701538988603-11.jpg",
+          "uid": 1538988603830,
+          "status": "success"
+        }
+      ],
+      "epc_rating": "A",
+      "brochure": [
+        {
+          "name": "7.jpg",
+          "url": "https://waseka.co.uk/upload-files/242971538988617-7.jpg",
+          "uid": 1538988617317,
+          "status": "success"
+        }
+      ],
+      "property_address_hide": 0,
+      "under_offered_at": "",
+      "featured_starts_at": "",
+      "featured_ends_at": "",
+      "published_at": "2018-10-08 11:04:07",
+      "active_at": "2018-10-08 11:04:07",
+      "expired_at": "2018-12-08 11:04:07",
+      "created_at": "2018-10-08 08:50:33",
+      "updated_at": "2018-10-08 11:04:07",
+      "deleted_at": ""
+    },
+    {
+      "id": 61,
+      "agent_branch_id": 1,
+      "property_type": "Detached House",
+      "price": 2600,
+      "price_type": "",
+      "published_by": "Jaber Ahmed",
+      "property_view": 0,
+      "phone_click": 0,
+      "postcode": "E11 2RP",
+      "house_number": "322-A/B",
+      "building_name": "",
+      "meta": {
+        "deposit": "2600",
+        "display_status": "Under Offer",
+        "furniture": "Part furnished",
+        "date_available": "TBC"
+      },
+      "reference_number": "WAS181008100803",
+      "postcode_area": "",
+      "city": "London",
+      "address_line1": "High Street",
+      "floor_plan_link": "",
+      "address_line2": "",
+      "street": "",
+      "town": "",
+      "lat": 51.57645,
+      "lng": 0.02115,
+      "sqt_size": 5654,
+      "year_built": 2009,
+      "short_description": "This fabulous detached family home is located just a short walk of Snaresbrook Central line underground station.",
+      "full_description": "<span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">This fabulous detached family home is located just a short walk of Snaresbrook Central line underground station.&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Boasting two luxury bathrooms with marble tiles, one of which functions as en suite to one of the four double bedrooms, the property also has a stunning conservatory. Ideal for family use, the converted garage serves as a utility room with a large storage area at the front of the property. The kitchen is bright and spacious, with ample space for a dining table, with a more formal dining room adjacent. The front reception room benefits from lots of natural lighting through the front bay window.&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">There is a private rear garden, as well as ample parking at the front of the property. Available late September, call us to arrange a viewing.</span>",
+      "bed": 4,
+      "bathroom": 2,
+      "property_features": [
+        "Garage",
+        "Parking"
+      ],
+      "property_images": {
+        "featured_image": [
+          {
+            "name": "27.jpeg",
+            "status": "success",
+            "uid": 1538989525379,
+            "url": "https://waseka.co.uk/upload_images/1538989525-27.jpeg"
+          }
+        ],
+        "gallery": [
+          {
+            "name": "24.jpg",
+            "status": "success",
+            "uid": 1538989514131,
+            "url": "https://waseka.co.uk/upload_images/1538989518-24.jpg"
+          },
+          {
+            "name": "25.jpg",
+            "status": "success",
+            "uid": 1538989520537,
+            "url": "https://waseka.co.uk/upload_images/1538989522-25.jpg"
+          },
+          {
+            "name": "27.jpeg",
+            "status": "success",
+            "uid": 1538993268928,
+            "url": "https://waseka.co.uk/upload_images/1538993269-27.jpeg"
+          },
+          {
+            "name": "42.jpg",
+            "status": "success",
+            "uid": 1538993274478,
+            "url": "https://waseka.co.uk/upload_images/1538993275-42.jpg"
+          }
+        ]
+      },
+      "property_videos": "https://www.youtube.com/watch?v=negni3BiiT4&t=8s",
+      "property_status": [
+        "Newly Built",
+        "Retirement Home",
+        "Under Offer",
+        "Shared Ownership"
+      ],
+      "floor_plan": [
+        {
+          "name": "floor_plan.jpeg",
+          "url": "https://waseka.co.uk/upload-files/220781538989532-floor_plan.jpeg",
+          "uid": 1538989533031,
+          "status": "success"
+        },
+        {
+          "name": "floor_plan2.jpeg",
+          "url": "https://waseka.co.uk/upload-files/693511538989535-floor_plan2.jpeg",
+          "uid": 1538989535628,
+          "status": "success"
+        }
+      ],
+      "epc": [
+        {
+          "name": "6.jpg",
+          "url": "https://waseka.co.uk/upload-files/516461538989530-6.jpg",
+          "uid": 1538989531041,
+          "status": "success"
+        }
+      ],
+      "epc_rating": "A",
+      "brochure": [],
+      "property_address_hide": 0,
+      "under_offered_at": "",
+      "featured_starts_at": "",
+      "featured_ends_at": "",
+      "published_at": "2018-10-08 11:04:07",
+      "active_at": "2018-10-08 11:04:07",
+      "expired_at": "2018-12-08 11:04:07",
+      "created_at": "2018-10-08 10:08:03",
+      "updated_at": "2018-10-08 11:04:07",
+      "deleted_at": ""
+    },
+    {
+      "id": 62,
+      "agent_branch_id": 1,
+      "property_type": "Semi-detached House",
+      "price": 2700,
+      "price_type": "",
+      "published_by": "Jaber Ahmed",
+      "property_view": 0,
+      "phone_click": 0,
+      "postcode": "E11 2RP",
+      "house_number": "33-B",
+      "building_name": "",
+      "meta": {
+        "deposit": "2700",
+        "display_status": "Under Offer",
+        "furniture": "Furnished",
+        "date_available": "TBC"
+      },
+      "reference_number": "WAS181008101105",
+      "postcode_area": "",
+      "city": "London",
+      "address_line1": "High Street",
+      "floor_plan_link": "",
+      "address_line2": "",
+      "street": "",
+      "town": "",
+      "lat": 51.57645,
+      "lng": 0.02115,
+      "sqt_size": 343,
+      "year_built": 2006,
+      "short_description": "This beautiful property comprises of Two Bright Spacious Reception Rooms, Contemproary Fitted Kitchen, Dinning Room, Ground Floor W.C.",
+      "full_description": "<span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">This beautiful property comprises of Two Bright Spacious Reception Rooms, Contemproary Fitted Kitchen, Dinning Room, Ground Floor W.C. First Floor Tiled Bathroom with Seperate Shower Cubical, Newly Fitted Carpets, Neutral Decor, Double Glazing, Gas Central Heating, Off Street Parking, Well Kept Rear Garden, An Internal viewing is highly advised.</span>",
+      "bed": 5,
+      "bathroom": 3,
+      "property_features": [
+        "Parking",
+        "Garage"
+      ],
+      "property_images": {
+        "featured_image": [
+          {
+            "name": "16.jpg",
+            "status": "success",
+            "uid": 1538993425780,
+            "url": "https://waseka.co.uk/upload_images/1538993428-16.jpg"
+          }
+        ],
+        "gallery": [
+          {
+            "name": "19.jpg",
+            "status": "success",
+            "uid": 1538993402433,
+            "url": "https://waseka.co.uk/upload_images/1538993403-19.jpg"
+          },
+          {
+            "name": "24.jpg",
+            "status": "success",
+            "uid": 1538993409439,
+            "url": "https://waseka.co.uk/upload_images/1538993423-24.jpg"
+          },
+          {
+            "name": "11.jpg",
+            "status": "success",
+            "uid": 1538993428834,
+            "url": "https://waseka.co.uk/upload_images/1538993429-11.jpg"
+          },
+          {
+            "name": "8.jpg",
+            "status": "success",
+            "uid": 1538993432945,
+            "url": "https://waseka.co.uk/upload_images/1538993450-8.jpg"
+          }
+        ]
+      },
+      "property_videos": "https://www.youtube.com/watch?v=negni3BiiT4&t=8s",
+      "property_status": [
+        "Shared Ownership",
+        "Under Offer",
+        "Retirement Home"
+      ],
+      "floor_plan": [
+        {
+          "name": "floor_plan.jpeg",
+          "url": "https://waseka.co.uk/upload-files/523741538993407-floor_plan.jpeg",
+          "uid": 1538993407273,
+          "status": "success"
+        },
+        {
+          "name": "floor_plan2.jpeg",
+          "url": "https://waseka.co.uk/upload-files/16841538993413-floor_plan2.jpeg",
+          "uid": 1538993413363,
+          "status": "success"
+        }
+      ],
+      "epc": [
+        {
+          "name": "11.jpg",
+          "url": "https://waseka.co.uk/upload-files/941481538993414-11.jpg",
+          "uid": 1538993414787,
+          "status": "success"
+        }
+      ],
+      "epc_rating": "A",
+      "brochure": [
+        {
+          "name": "6.jpg",
+          "url": "https://waseka.co.uk/upload-files/130591538993422-6.jpg",
+          "uid": 1538993422661,
+          "status": "success"
+        }
+      ],
+      "property_address_hide": 0,
+      "under_offered_at": "",
+      "featured_starts_at": "",
+      "featured_ends_at": "",
+      "published_at": "2018-10-08 11:04:07",
+      "active_at": "2018-10-08 11:04:07",
+      "expired_at": "2018-12-08 11:04:07",
+      "created_at": "2018-10-08 10:11:05",
+      "updated_at": "2018-10-08 11:04:07",
+      "deleted_at": ""
+    },
+    {
+      "id": 63,
+      "agent_branch_id": 1,
+      "property_type": "Detached House",
+      "price": 3200,
+      "price_type": "",
+      "published_by": "Jaber Ahmed",
+      "property_view": 0,
+      "phone_click": 0,
+      "postcode": "E11 2RP",
+      "house_number": "34-A/B",
+      "building_name": "",
+      "meta": {
+        "deposit": "3200",
+        "display_status": "No Status",
+        "furniture": "Furnished",
+        "date_available": "Immediate"
+      },
+      "reference_number": "WAS181008101749",
+      "postcode_area": "",
+      "city": "London",
+      "address_line1": "High Street",
+      "floor_plan_link": "",
+      "address_line2": "",
+      "street": "",
+      "town": "",
+      "lat": 51.57645,
+      "lng": 0.02115,
+      "sqt_size": 2345,
+      "year_built": 2009,
+      "short_description": "Birchills Estate Agents are Extremely Proud to Present this Amazing 8 Bedroom Home Located in Walthamstow Within Walking Distance to Wood Street Overground Station.",
+      "full_description": "<span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">CALLS ANSWERED 24/7</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Birchills Estate Agents are Extremely Proud to Present this Amazing 8 Bedroom Home Located in Walthamstow Within Walking Distance to Wood Street Overground Station.&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">On the Ground Floor of this Property you are Welcomed by a Beautiful &amp; Well-Sized Front Entrance. There is also 2 X Very Large Open Plan Reception Rooms leading on to a Bright Conservatory. The Ground Floor also Consists of 1 X single bedroom, 1 X Double Bedroom, a Very Spacious Kitchen/Diner with Applianeces and a Downstairs W/C.</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">On the First Floor there are a Further 5 X Double Bedrooms as well as a Very Well-Sized Family Bathroom. On the Second Floor there is Another Double Bedroom with Added Storage Space, a Shower Room and a Sauna/Steam Room.</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">To the Rear of this Lovely Home there is a Beautiful Garden and to the Front of The property there is a Driveway for 5 X Cars Plus.</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Gas Central Heated and Double Glazed Throughout.&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Close to Epping Forest, Hollow Pond, Local Amenities and All Transport Links.</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">So Don't Delay Call Birchills Today!</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><b style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Open Plan Reception</b><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;- 10.11 x 13.8 (33'2\" x 45'3\") -&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><b style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Kitchen</b><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;- 6.07 x 4.80 (19'10\" x 15'8\") -&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><b style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Conservatory</b><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;- 4.57 x 2.64 (14'11\" x 8'7\") -&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><b style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Bedroom 1</b><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;- 2.92 x 2.64 (9'6\" x 8'7\") -&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><b style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Bedroom 2</b><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;- 4.72 x 2.74 (15'5\" x 8'11\") -&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><b style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Bedroom 3</b><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;- 2.74 x 2.29 (8'11\" x 7'6\") -&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><b style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Bedroom 4</b><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;- 3.94 x 3.53 (12'11\" x 11'6\") -&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><b style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Master Bedroom</b><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;- 4.50 x 3.66 (14'9\" x 12'0\") -&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><b style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Bedroom 6</b><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;- 4.37 x 3.23 (14'4\" x 10'7\") -&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><b style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Bedroom 7</b><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;- 3.20 x 2.67 (10'5\" x 8'9\") -&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><b style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Bedroom 8</b><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;- 5.61 x 4.22 (18'4\" x 13'10\") -&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><b style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">En Suit Shower Room</b><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;- 2.18 x 1.52 (7'1\" x 4'11\") -&nbsp;</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><b style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Sauna/Steam Room</b><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">&nbsp;- 2.11 x 1.52 (6'11\" x 4'11\") -&nbsp;</span>",
+      "bed": 8,
+      "bathroom": 3,
+      "property_features": [
+        "Garden",
+        "Garage"
+      ],
+      "property_images": {
+        "featured_image": [
+          {
+            "name": "13.jpg",
+            "status": "success",
+            "uid": 1538993837593,
+            "url": "https://waseka.co.uk/upload_images/1538993840-13.jpg"
+          }
+        ],
+        "gallery": [
+          {
+            "name": "10.jpg",
+            "status": "success",
+            "uid": 1538993820381,
+            "url": "https://waseka.co.uk/upload_images/1538993822-10.jpg"
+          },
+          {
+            "name": "11.jpg",
+            "status": "success",
+            "uid": 1538993825391,
+            "url": "https://waseka.co.uk/upload_images/1538993825-11.jpg"
+          },
+          {
+            "name": "16.jpg",
+            "status": "success",
+            "uid": 1538993834830,
+            "url": "https://waseka.co.uk/upload_images/1538993836-16.jpg"
+          },
+          {
+            "name": "13.jpg",
+            "status": "success",
+            "uid": 1538993847397,
+            "url": "https://waseka.co.uk/upload_images/1538993849-13.jpg"
+          }
+        ]
+      },
+      "property_videos": "https://www.youtube.com/watch?v=negni3BiiT4&t=8s",
+      "property_status": [
+        "Shared Ownership",
+        "Under Offer",
+        "No Status",
+        "Newly Built"
+      ],
+      "floor_plan": [
+        {
+          "name": "floor_plan.jpeg",
+          "url": "https://waseka.co.uk/upload-files/294421538993830-floor_plan.jpeg",
+          "uid": 1538993830487,
+          "status": "success"
+        },
+        {
+          "name": "floor_plan2.jpeg",
+          "url": "https://waseka.co.uk/upload-files/603961538993832-floor_plan2.jpeg",
+          "uid": 1538993832780,
+          "status": "success"
+        }
+      ],
+      "epc": [
+        {
+          "name": "24.jpg",
+          "url": "https://waseka.co.uk/upload-files/28711538993858-24.jpg",
+          "uid": 1538993858740,
+          "status": "success"
+        }
+      ],
+      "epc_rating": "A",
+      "brochure": [
+        {
+          "name": "20.jpg",
+          "url": "https://waseka.co.uk/upload-files/426181538993852-20.jpg",
+          "uid": 1538993853026,
+          "status": "success"
+        }
+      ],
+      "property_address_hide": 0,
+      "under_offered_at": "",
+      "featured_starts_at": "",
+      "featured_ends_at": "",
+      "published_at": "2018-10-08 11:04:07",
+      "active_at": "2018-10-08 11:04:07",
+      "expired_at": "2018-12-08 11:04:07",
+      "created_at": "2018-10-08 10:17:49",
+      "updated_at": "2018-10-08 11:04:07",
+      "deleted_at": ""
+    },
+    {
+      "id": 64,
+      "agent_branch_id": 1,
+      "property_type": "Detached House",
+      "price": 5417,
+      "price_type": "",
+      "published_by": "Jaber Ahmed",
+      "property_view": 0,
+      "phone_click": 0,
+      "postcode": "E11 2RP",
+      "house_number": 34,
+      "building_name": "",
+      "meta": {
+        "deposit": "5417",
+        "display_status": "Shared Ownership",
+        "furniture": "Part furnished",
+        "date_available": "TBC"
+      },
+      "reference_number": "WAS181008105515",
+      "postcode_area": "",
+      "city": "London",
+      "address_line1": "High Street",
+      "floor_plan_link": "",
+      "address_line2": "",
+      "street": "",
+      "town": "",
+      "lat": 51.57645,
+      "lng": 0.02115,
+      "sqt_size": 564,
+      "year_built": 2009,
+      "short_description": "SHORT LET. This expansive six bedroom house is arranged over three floors, offering a bright double reception room with fireplace, large modern fitted kitchen, bright conservatory and benefit",
+      "full_description": "<span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">SHORT LET. This expansive six bedroom house is arranged over three floors, offering a bright double reception room with fireplace, large modern fitted kitchen, bright conservatory and benefits from a private garden.</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Oakhurst Gardens is set just moments away from Epping Forest and Hollow Pond, providing an array of fantastic local amenities and transport links.</span>",
+      "bed": 6,
+      "bathroom": 3,
+      "property_features": [
+        "Garage",
+        "Garden"
+      ],
+      "property_images": {
+        "featured_image": [
+          {
+            "name": "22.jpg",
+            "status": "success",
+            "uid": 1538996088256,
+            "url": "https://waseka.co.uk/upload_images/1538996088-22.jpg"
+          }
+        ],
+        "gallery": [
+          {
+            "name": "15.jpg",
+            "status": "success",
+            "uid": 1538996052599,
+            "url": "https://waseka.co.uk/upload_images/1538996072-15.jpg"
+          },
+          {
+            "name": "11.jpg",
+            "status": "success",
+            "uid": 1538996092145,
+            "url": "https://waseka.co.uk/upload_images/1538996092-11.jpg"
+          },
+          {
+            "name": "6.jpg",
+            "status": "success",
+            "uid": 1538996095978,
+            "url": "https://waseka.co.uk/upload_images/1538996097-6.jpg"
+          },
+          {
+            "name": "5.jpg",
+            "status": "success",
+            "uid": 1538996100465,
+            "url": "https://waseka.co.uk/upload_images/1538996107-5.jpg"
+          }
+        ]
+      },
+      "property_videos": "https://www.youtube.com/watch?v=negni3BiiT4&t=8s",
+      "property_status": [
+        "Under Offer",
+        "Shared Ownership",
+        "Newly Built",
+        "Retirement Home"
+      ],
+      "floor_plan": [
+        {
+          "name": "floor_plan.jpeg",
+          "url": "https://waseka.co.uk/upload-files/964231538996070-floor_plan.jpeg",
+          "uid": 1538996071477,
+          "status": "success"
+        },
+        {
+          "name": "floor_plan2.jpeg",
+          "url": "https://waseka.co.uk/upload-files/417471538996079-floor_plan2.jpeg",
+          "uid": 1538996079452,
+          "status": "success"
+        }
+      ],
+      "epc": [
+        {
+          "name": "24.jpg",
+          "url": "https://waseka.co.uk/upload-files/302011538996086-24.jpg",
+          "uid": 1538996086933,
+          "status": "success"
+        }
+      ],
+      "epc_rating": "A",
+      "brochure": [
+        {
+          "name": "11.jpg",
+          "url": "https://waseka.co.uk/upload-files/880831538996085-11.jpg",
+          "uid": 1538996086197,
+          "status": "success"
+        }
+      ],
+      "property_address_hide": 0,
+      "under_offered_at": "",
+      "featured_starts_at": "",
+      "featured_ends_at": "",
+      "published_at": "2018-10-08 11:04:07",
+      "active_at": "2018-10-08 11:04:07",
+      "expired_at": "2018-12-08 11:04:07",
+      "created_at": "2018-10-08 10:55:15",
+      "updated_at": "2018-10-08 11:04:07",
+      "deleted_at": ""
+    },
+    {
+      "id": 65,
+      "agent_branch_id": 1,
+      "property_type": "Detached House",
+      "price": 3200,
+      "price_type": "",
+      "published_by": "Jaber Ahmed",
+      "property_view": 0,
+      "phone_click": 0,
+      "postcode": "E11 2RP",
+      "house_number": 3453,
+      "building_name": "",
+      "meta": {
+        "deposit": "3200",
+        "display_status": "New Listing",
+        "furniture": "Furnished",
+        "date_available": "Immediate"
+      },
+      "reference_number": "WAS181008105738",
+      "postcode_area": "",
+      "city": "London",
+      "address_line1": "High Street",
+      "floor_plan_link": "",
+      "address_line2": "",
+      "street": "",
+      "town": "",
+      "lat": 51.57645,
+      "lng": 0.02115,
+      "sqt_size": 454,
+      "year_built": 2009,
+      "short_description": "LONG LET. This expansive six bedroom house is arranged over three floors, offering a bright double reception room with fireplace, large modern fitted kitchen, bright conservatory and benefits",
+      "full_description": "<span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">LONG LET. This expansive six bedroom house is arranged over three floors, offering a bright double reception room with fireplace, large modern fitted kitchen, bright conservatory and benefits from a private garden.</span><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><br style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\"><span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">Oakhurst Gardens is set just moments away from Epping Forest and Hollow Pond, providing an array of fantastic local amenities and transport links.</span>",
+      "bed": 6,
+      "bathroom": 3,
+      "property_features": [
+        "Garden",
+        "Garage"
+      ],
+      "property_images": {
+        "featured_image": [
+          {
+            "name": "7.jpg",
+            "status": "success",
+            "uid": 1538996234384,
+            "url": "https://waseka.co.uk/upload_images/1538996236-7.jpg"
+          }
+        ],
+        "gallery": [
+          {
+            "name": "5.jpg",
+            "status": "success",
+            "uid": 1538996198798,
+            "url": "https://waseka.co.uk/upload_images/1538996206-5.jpg"
+          },
+          {
+            "name": "9.jpg",
+            "status": "success",
+            "uid": 1538996218700,
+            "url": "https://waseka.co.uk/upload_images/1538996219-9.jpg"
+          },
+          {
+            "name": "8.jpg",
+            "status": "success",
+            "uid": 1538996224511,
+            "url": "https://waseka.co.uk/upload_images/1538996229-8.jpg"
+          },
+          {
+            "name": "6.jpg",
+            "status": "success",
+            "uid": 1538996239028,
+            "url": "https://waseka.co.uk/upload_images/1538996240-6.jpg"
+          }
+        ]
+      },
+      "property_videos": "https://www.youtube.com/watch?v=negni3BiiT4&t=8s",
+      "property_status": [
+        "Under Offer",
+        "No Chain",
+        "New Listing"
+      ],
+      "floor_plan": [
+        {
+          "name": "floor_plan.jpeg",
+          "url": "https://waseka.co.uk/upload-files/998421538996205-floor_plan.jpeg",
+          "uid": 1538996205529,
+          "status": "success"
+        },
+        {
+          "name": "floor_plan2.jpeg",
+          "url": "https://waseka.co.uk/upload-files/998851538996208-floor_plan2.jpeg",
+          "uid": 1538996208676,
+          "status": "success"
+        }
+      ],
+      "epc": [],
+      "epc_rating": "A",
+      "brochure": [
+        {
+          "name": "10.jpg",
+          "url": "https://waseka.co.uk/upload-files/45891538996214-10.jpg",
+          "uid": 1538996214651,
+          "status": "success"
+        }
+      ],
+      "property_address_hide": 0,
+      "under_offered_at": "",
+      "featured_starts_at": "",
+      "featured_ends_at": "",
+      "published_at": "2018-10-08 11:04:07",
+      "active_at": "2018-10-08 11:04:07",
+      "expired_at": "2018-12-08 11:04:07",
+      "created_at": "2018-10-08 10:57:38",
+      "updated_at": "2018-10-08 11:04:07",
+      "deleted_at": ""
+    },
+    {
+      "id": 66,
+      "agent_branch_id": 1,
+      "property_type": "Terraced House",
+      "price": 2400,
+      "price_type": "",
+      "published_by": "Jaber Ahmed",
+      "property_view": 0,
+      "phone_click": 0,
+      "postcode": "E11 2RP",
+      "house_number": "33-F",
+      "building_name": "",
+      "meta": {
+        "deposit": "2400",
+        "display_status": "No Status",
+        "furniture": "Part furnished",
+        "date_available": "Immediate"
+      },
+      "reference_number": "WAS181008110103",
+      "postcode_area": "",
+      "city": "London",
+      "address_line1": "High Street",
+      "floor_plan_link": "",
+      "address_line2": "",
+      "street": "",
+      "town": "",
+      "lat": 51.57645,
+      "lng": 0.02115,
+      "sqt_size": "",
+      "year_built": 2009,
+      "short_description": "A generously proportioned four bedroom mid-terrace house located on the much sought after Warren Estate. The property is arranged over three floors, the ground floor consisting of a large dou",
+      "full_description": "<span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">A generously proportioned four bedroom mid-terrace house located on the much sought after Warren Estate. The property is arranged over three floors, the ground floor consisting of a large double reception, further reception perfect for a play room or study, cloakroom, well-appointed fitted kitchen/diner with French doors leading to the patio and well maintained 72 feet garden. The first floor has three bedrooms and a family bathroom. The top floor has a large fourth bedroom with en-suite shower room. Further benefitting from a driveway with off street parking for one car. Ideally located within minutes of Wanstead Central Line Station and High Street.</span>",
+      "bed": 4,
+      "bathroom": 2,
+      "property_features": [
+        "Garden",
+        "Garage"
+      ],
+      "property_images": {
+        "featured_image": [
+          {
+            "name": "13.jpg",
+            "status": "success",
+            "uid": 1538996432830,
+            "url": "https://waseka.co.uk/upload_images/1538996438-13.jpg"
+          }
+        ],
+        "gallery": [
+          {
+            "name": "15.jpg",
+            "status": "success",
+            "uid": 1538996405977,
+            "url": "https://waseka.co.uk/upload_images/1538996407-15.jpg"
+          },
+          {
+            "name": "16.jpg",
+            "status": "success",
+            "uid": 1538996415308,
+            "url": "https://waseka.co.uk/upload_images/1538996416-16.jpg"
+          },
+          {
+            "name": "17.jpg",
+            "status": "success",
+            "uid": 1538996427519,
+            "url": "https://waseka.co.uk/upload_images/1538996429-17.jpg"
+          },
+          {
+            "name": "19.jpg",
+            "status": "success",
+            "uid": 1538996439758,
+            "url": "https://waseka.co.uk/upload_images/1538996440-19.jpg"
+          }
+        ]
+      },
+      "property_videos": "https://www.youtube.com/watch?v=negni3BiiT4&t=8s",
+      "property_status": [
+        "Shared Ownership",
+        "No Status",
+        "Newly Built",
+        "Retirement Home"
+      ],
+      "floor_plan": [
+        {
+          "name": "floor_plan.jpeg",
+          "url": "https://waseka.co.uk/upload-files/297421538996412-floor_plan.jpeg",
+          "uid": 1538996412900,
+          "status": "success"
+        },
+        {
+          "name": "floor_plan2.jpeg",
+          "url": "https://waseka.co.uk/upload-files/884781538996420-floor_plan2.jpeg",
+          "uid": 1538996420644,
+          "status": "success"
+        }
+      ],
+      "epc": [
+        {
+          "name": "21.jpg",
+          "url": "https://waseka.co.uk/upload-files/973811538996410-21.jpg",
+          "uid": 1538996410670,
+          "status": "success"
+        }
+      ],
+      "epc_rating": "A",
+      "brochure": [
+        {
+          "name": "18.jpg",
+          "url": "https://waseka.co.uk/upload-files/681821538996425-18.jpg",
+          "uid": 1538996425613,
+          "status": "success"
+        }
+      ],
+      "property_address_hide": 0,
+      "under_offered_at": "",
+      "featured_starts_at": "",
+      "featured_ends_at": "",
+      "published_at": "2018-10-08 11:04:07",
+      "active_at": "2018-10-08 11:04:07",
+      "expired_at": "2018-12-08 11:04:07",
+      "created_at": "2018-10-08 11:01:03",
+      "updated_at": "2018-10-08 11:04:07",
+      "deleted_at": ""
+    },
+    {
+      "id": 67,
+      "agent_branch_id": 1,
+      "property_type": "Terraced House",
+      "price": 2000,
+      "price_type": "",
+      "published_by": "Jaber Ahmed",
+      "property_view": 0,
+      "phone_click": 0,
+      "postcode": "E11 2RP",
+      "house_number": "343-A/B",
+      "building_name": "",
+      "meta": {
+        "deposit": "2000",
+        "display_status": "Newly Built",
+        "furniture": "Part furnished",
+        "date_available": "Immediate"
+      },
+      "reference_number": "WAS181008110254",
+      "postcode_area": "",
+      "city": "London",
+      "address_line1": "High Street",
+      "floor_plan_link": "",
+      "address_line2": "",
+      "street": "",
+      "town": "",
+      "lat": 51.57645,
+      "lng": 0.02115,
+      "sqt_size": 343,
+      "year_built": 2009,
+      "short_description": "A superb and well proportioned four bedroom mid-terraced property, offering bundles of character and plenty of charm. The property comes with three good size double and a single bedroom, priv",
+      "full_description": "<span style=\"color: rgb(51, 51, 51); font-family: Effra-Regular, arial, helvetica, sans-serif;\">A superb and well proportioned four bedroom mid-terraced property, offering bundles of character and plenty of charm. The property comes with three good size double and a single bedroom, private garden, two spacious receptions and a large kitchen/diner. Tylney Road forms part of the increasingly desirable Forest Gate Village locality and enjoys close proximity the open green-spaces of Wanstead Plains and Forest Gate BR Station (Liverpool Street 8 mins. approx).</span>",
+      "bed": 4,
+      "bathroom": 2,
+      "property_features": [
+        "Garage",
+        "Driveway"
+      ],
+      "property_images": {
+        "featured_image": [
+          {
+            "name": "21.jpg",
+            "status": "success",
+            "uid": 1538996552399,
+            "url": "https://waseka.co.uk/upload_images/1538996553-21.jpg"
+          }
+        ],
+        "gallery": [
+          {
+            "name": "8.jpg",
+            "status": "success",
+            "uid": 1538996534676,
+            "url": "https://waseka.co.uk/upload_images/1538996542-8.jpg"
+          },
+          {
+            "name": "11.jpg",
+            "status": "success",
+            "uid": 1538996549750,
+            "url": "https://waseka.co.uk/upload_images/1538996550-11.jpg"
+          },
+          {
+            "name": "15.jpg",
+            "status": "success",
+            "uid": 1538996555354,
+            "url": "https://waseka.co.uk/upload_images/1538996556-15.jpg"
+          },
+          {
+            "name": "22.jpg",
+            "status": "success",
+            "uid": 1538996560206,
+            "url": "https://waseka.co.uk/upload_images/1538996561-22.jpg"
+          }
+        ]
+      },
+      "property_videos": "https://www.youtube.com/watch?v=negni3BiiT4&t=8s",
+      "property_status": [
+        "Shared Ownership",
+        "Under Offer",
+        "Newly Built",
+        "Retirement Home"
+      ],
+      "floor_plan": [
+        {
+          "name": "floor_plan.jpeg",
+          "url": "https://waseka.co.uk/upload-files/668661538996542-floor_plan.jpeg",
+          "uid": 1538996542702,
+          "status": "success"
+        },
+        {
+          "name": "floor_plan2.jpeg",
+          "url": "https://waseka.co.uk/upload-files/143921538996544-floor_plan2.jpeg",
+          "uid": 1538996544782,
+          "status": "success"
+        }
+      ],
+      "epc": [
+        {
+          "name": "5.jpg",
+          "url": "https://waseka.co.uk/upload-files/574151538996565-5.jpg",
+          "uid": 1538996565438,
+          "status": "success"
+        }
+      ],
+      "epc_rating": "A",
+      "brochure": [
+        {
+          "name": "12.jpg",
+          "url": "https://waseka.co.uk/upload-files/401281538996547-12.jpg",
+          "uid": 1538996547311,
+          "status": "success"
+        }
+      ],
+      "property_address_hide": 0,
+      "under_offered_at": "",
+      "featured_starts_at": "",
+      "featured_ends_at": "",
+      "published_at": "2018-10-08 11:04:07",
+      "active_at": "2018-10-08 11:04:07",
+      "expired_at": "2018-12-08 11:04:07",
+      "created_at": "2018-10-08 11:02:54",
+      "updated_at": "2018-10-08 11:04:07",
+      "deleted_at": ""
+    }
+  ]

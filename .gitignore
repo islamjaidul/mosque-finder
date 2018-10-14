@@ -1,2 +1,5 @@
-/storage
+/storage/postcode/*
+/storage/coordinate/property-result/*
+/storage/coordinate/property-type/*
 /node_modules
+package-lock.json
