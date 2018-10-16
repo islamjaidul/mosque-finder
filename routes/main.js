@@ -5,6 +5,7 @@ const DIR = '../src/Services';
 const Services = [
     require(`${DIR}/PostcodeSearch/routes/api`),
     require(`${DIR}/MosqueSearch/routes/api`),
+    require(`${DIR}/Auth/routes/api`)
 ]
         
 module.exports = Services;
